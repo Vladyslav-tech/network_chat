@@ -1,0 +1,138 @@
+2020-11-23 15:19:34,140 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 23-11-2020 15:19 из функции main
+2020-11-23 15:19:34,274 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-23 15:19:45,741 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 15:19 из функции main
+2020-11-23 15:19:45,743 INFO server.py Установлено соедение  ('127.0.0.1', 63348)
+2020-11-23 15:19:45,744 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ('test1',) {}.Функция create_presence была вызвана : 23-11-2020 15:19 из функции main
+2020-11-23 15:19:46,249 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606133985.743687, 'user': {'account_name': 'test1'}}
+2020-11-23 15:19:46,282 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами ({'response': 200},) {}.Функция server_response_handler была вызвана : 23-11-2020 15:19 из функции main
+2020-11-23 15:19:46,786 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606133986.334806, 'account_name': 'test1'}
+2020-11-23 15:19:47,291 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606133986.800651, 'user': 'test1'}
+2020-11-23 15:19:47,989 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 15:19 из функции main
+2020-11-23 15:19:47,990 INFO server.py Установлено соедение  ('127.0.0.1', 63371)
+2020-11-23 15:19:47,991 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ('test2',) {}.Функция create_presence была вызвана : 23-11-2020 15:19 из функции main
+2020-11-23 15:19:48,492 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606133987.9904482, 'user': {'account_name': 'test2'}}
+2020-11-23 15:19:48,509 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами ({'response': 200},) {}.Функция server_response_handler была вызвана : 23-11-2020 15:19 из функции main
+2020-11-23 15:19:49,011 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606133988.560312, 'account_name': 'test2'}
+2020-11-23 15:19:49,517 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606133989.0223308, 'user': 'test2'}
+2020-11-23 15:19:50,980 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 15:19 из функции main
+2020-11-23 15:19:50,982 INFO server.py Установлено соедение  ('127.0.0.1', 63372)
+2020-11-23 15:19:50,983 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ('test3',) {}.Функция create_presence была вызвана : 23-11-2020 15:19 из функции main
+2020-11-23 15:52:29,521 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 23-11-2020 15:52 из функции main
+2020-11-23 15:52:29,591 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-23 15:53:02,078 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 15:53 из функции main
+2020-11-23 15:53:02,080 INFO server.py Установлено соедение  ('127.0.0.1', 64368)
+2020-11-23 15:53:02,081 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ('test1',) {}.Функция create_presence была вызвана : 23-11-2020 15:53 из функции main
+2020-11-23 15:53:02,582 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606135982.080223, 'user': {'account_name': 'test1'}}
+2020-11-23 15:53:02,598 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами ({'response': 200},) {}.Функция server_response_handler была вызвана : 23-11-2020 15:53 из функции main
+2020-11-23 15:53:03,102 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606135982.6368058, 'account_name': 'test1'}
+2020-11-23 15:53:03,608 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606135983.116322, 'user': 'test1'}
+2020-11-23 15:53:04,995 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 15:53 из функции main
+2020-11-23 15:53:04,995 INFO server.py Установлено соедение  ('127.0.0.1', 64369)
+2020-11-23 15:53:04,996 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ('test2',) {}.Функция create_presence была вызвана : 23-11-2020 15:53 из функции main
+2020-11-23 15:53:05,500 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606135984.9958138, 'user': {'account_name': 'test2'}}
+2020-11-23 15:53:05,511 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами ({'response': 200},) {}.Функция server_response_handler была вызвана : 23-11-2020 15:53 из функции main
+2020-11-23 15:53:06,013 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606135985.548188, 'account_name': 'test2'}
+2020-11-23 15:53:06,520 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606135986.0279932, 'user': 'test2'}
+2020-11-23 15:53:08,090 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 15:53 из функции main
+2020-11-23 15:53:08,093 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ('test3',) {}.Функция create_presence была вызвана : 23-11-2020 15:53 из функции main
+2020-11-23 18:27:51,411 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 23-11-2020 18:27 из функции main
+2020-11-23 18:27:51,477 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-23 18:27:58,457 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 18:27 из функции main
+2020-11-23 18:27:58,459 INFO server.py Установлено соедение  ('127.0.0.1', 56698)
+2020-11-23 18:27:58,459 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ('test1',) {}.Функция create_presence была вызвана : 23-11-2020 18:27 из функции main
+2020-11-23 18:27:58,961 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606145278.4592059, 'user': {'account_name': 'test1'}}
+2020-11-23 18:27:58,987 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами ({'response': 200},) {}.Функция server_response_handler была вызвана : 23-11-2020 18:27 из функции main
+2020-11-23 18:27:59,489 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606145279.045952, 'account_name': 'test1'}
+2020-11-23 18:27:59,994 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606145279.502264, 'user': 'test1'}
+2020-11-23 18:28:01,156 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 18:28 из функции main
+2020-11-23 18:28:01,157 INFO server.py Установлено соедение  ('127.0.0.1', 56743)
+2020-11-23 18:28:01,157 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ('test2',) {}.Функция create_presence была вызвана : 23-11-2020 18:28 из функции main
+2020-11-23 18:28:01,657 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606145281.1571531, 'user': {'account_name': 'test2'}}
+2020-11-23 18:28:01,671 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами ({'response': 200},) {}.Функция server_response_handler была вызвана : 23-11-2020 18:28 из функции main
+2020-11-23 18:28:02,175 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606145281.718246, 'account_name': 'test2'}
+2020-11-23 18:28:02,681 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606145282.189513, 'user': 'test2'}
+2020-11-23 18:28:04,190 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 18:28 из функции main
+2020-11-23 18:28:04,193 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ('test3',) {}.Функция create_presence была вызвана : 23-11-2020 18:28 из функции main
+2020-11-23 18:29:13,947 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 23-11-2020 18:29 из функции main
+2020-11-23 18:29:13,984 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-23 18:29:18,868 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 18:29 из функции main
+2020-11-23 18:29:18,871 INFO server.py Установлено соедение  ('127.0.0.1', 56802)
+2020-11-23 18:29:18,871 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ('test1',) {}.Функция create_presence была вызвана : 23-11-2020 18:29 из функции main
+2020-11-23 18:29:19,876 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606145358.871018, 'user': {'account_name': 'test1'}}
+2020-11-23 18:29:19,892 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами ({'response': 200},) {}.Функция server_response_handler была вызвана : 23-11-2020 18:29 из функции main
+2020-11-23 18:29:20,895 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606145359.931197, 'account_name': 'test1'}
+2020-11-23 18:29:21,819 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 18:29 из функции main
+2020-11-23 18:29:21,820 INFO server.py Установлено соедение  ('127.0.0.1', 56803)
+2020-11-23 18:29:21,820 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606145360.9101791, 'user': 'test1'}
+2020-11-23 18:29:21,820 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ('test2',) {}.Функция create_presence была вызвана : 23-11-2020 18:29 из функции main
+2020-11-23 18:29:22,825 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606145361.82001, 'user': {'account_name': 'test2'}}
+2020-11-23 18:29:22,835 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами ({'response': 200},) {}.Функция server_response_handler была вызвана : 23-11-2020 18:29 из функции main
+2020-11-23 18:29:23,836 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606145362.877097, 'account_name': 'test2'}
+2020-11-23 18:29:24,839 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606145363.8578959, 'user': 'test2'}
+2020-11-23 18:29:25,051 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 18:29 из функции main
+2020-11-23 18:29:25,052 INFO server.py Установлено соедение  ('127.0.0.1', 56818)
+2020-11-23 18:29:25,052 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ('test3',) {}.Функция create_presence была вызвана : 23-11-2020 18:29 из функции main
+2020-11-23 20:54:10,188 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 23-11-2020 20:54 из функции main
+2020-11-23 20:54:10,275 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-23 20:54:17,055 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 20:54 из функции <module>
+2020-11-23 20:54:17,300 INFO server.py Установлено соедение  ('127.0.0.1', 49330)
+2020-11-23 20:54:18,303 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606154057.300394, 'user': {'account_name': 'test1'}}
+2020-11-23 20:54:20,179 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 20:54 из функции <module>
+2020-11-23 20:54:22,665 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 20:54 из функции <module>
+2020-11-23 21:02:45,000 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 23-11-2020 21:02 из функции main
+2020-11-23 21:02:45,061 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-23 21:02:51,138 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 21:02 из функции <module>
+2020-11-23 21:02:51,426 INFO server.py Установлено соедение  ('127.0.0.1', 49631)
+2020-11-23 21:02:52,431 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606154571.426904, 'user': {'account_name': 'test1'}}
+2020-11-23 21:02:53,767 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 21:02 из функции <module>
+2020-11-23 21:02:56,768 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 21:02 из функции <module>
+2020-11-23 21:32:17,575 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 23-11-2020 21:32 из функции main
+2020-11-23 21:32:17,628 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-23 21:32:24,125 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 21:32 из функции <module>
+2020-11-23 21:32:24,392 INFO server.py Установлено соедение  ('127.0.0.1', 50701)
+2020-11-23 21:32:25,394 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606156344.39241, 'user': {'account_name': 'test1'}}
+2020-11-23 21:32:26,687 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 21:32 из функции <module>
+2020-11-23 21:32:29,544 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 21:32 из функции <module>
+2020-11-23 22:30:36,991 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 23-11-2020 22:30 из функции main
+2020-11-23 22:30:37,058 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-23 22:30:42,087 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 22:30 из функции <module>
+2020-11-23 22:30:42,312 INFO server.py Установлено соедение  ('127.0.0.1', 54352)
+2020-11-23 22:30:42,313 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606159842.3129642, 'user': {'account_name': 'test1'}}
+2020-11-23 22:30:45,254 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 22:30 из функции <module>
+2020-11-23 22:30:48,099 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 23-11-2020 22:30 из функции <module>
+2020-11-24 14:16:18,688 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 24-11-2020 14:16 из функции main
+2020-11-24 14:16:18,768 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-24 14:16:25,186 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 24-11-2020 14:16 из функции <module>
+2020-11-24 14:16:25,430 INFO server.py Установлено соедение  ('127.0.0.1', 58753)
+2020-11-24 14:16:25,937 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606216585.430499, 'user': {'account_name': 'test1'}}
+2020-11-24 14:16:26,467 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606216585.964118, 'account_name': 'test1'}
+2020-11-24 14:16:26,973 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606216586.4808052, 'user': 'test1'}
+2020-11-24 14:16:28,580 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 24-11-2020 14:16 из функции <module>
+2020-11-24 14:16:28,821 INFO server.py Установлено соедение  ('127.0.0.1', 58756)
+2020-11-24 14:16:29,325 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606216588.821858, 'user': {'account_name': 'test2'}}
+2020-11-24 14:16:29,845 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606216589.3461068, 'account_name': 'test2'}
+2020-11-24 14:16:30,349 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606216589.8576262, 'user': 'test2'}
+2020-11-24 14:16:31,645 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 24-11-2020 14:16 из функции <module>
+2020-11-24 14:16:31,882 INFO server.py Установлено соедение  ('127.0.0.1', 58758)
+2020-11-24 14:16:32,386 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606216591.882815, 'user': {'account_name': 'test3'}}
+2020-11-24 14:16:32,906 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606216592.404211, 'account_name': 'test3'}
+2020-11-24 14:16:33,408 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606216592.916631, 'user': 'test3'}
+2020-11-24 14:17:00,534 DEBUG server.py Сообщение клиента  : {'action': 'add', 'time': 1606216620.3869991, 'user': 'test1', 'account_name': ''}
+2020-11-24 14:17:20,660 DEBUG server.py Сообщение клиента  : {'action': 'message', 'from': 'test1', 'to': '', 'time': 1606216640.162308, 'message_text': 'sdvdsv'}
+2020-11-24 15:49:28,509 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 24-11-2020 15:49 из функции main
+2020-11-24 15:49:28,567 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-24 15:49:34,548 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 24-11-2020 15:49 из функции <module>
+2020-11-24 15:49:34,806 INFO server.py Установлено соедение  ('127.0.0.1', 62292)
+2020-11-24 15:49:35,307 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606222174.806945, 'user': {'account_name': 'test1'}}
+2020-11-24 15:49:35,826 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606222175.322388, 'account_name': 'test1'}
+2020-11-24 15:49:36,334 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606222175.842592, 'user': 'test1'}
+2020-11-24 15:49:37,565 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 24-11-2020 15:49 из функции <module>
+2020-11-24 15:49:37,751 INFO server.py Установлено соедение  ('127.0.0.1', 62293)
+2020-11-24 15:49:38,257 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606222177.751851, 'user': {'account_name': 'test2'}}
+2020-11-24 15:49:38,770 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606222178.270328, 'account_name': 'test2'}
+2020-11-24 15:49:39,276 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606222178.790643, 'user': 'test2'}
+2020-11-24 15:49:40,721 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 24-11-2020 15:49 из функции <module>
+2020-11-24 15:49:40,949 INFO server.py Установлено соедение  ('127.0.0.1', 62294)
+2020-11-24 15:49:41,452 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1606222180.949313, 'user': {'account_name': 'test3'}}
+2020-11-24 15:49:41,970 DEBUG server.py Сообщение клиента  : {'action': 'get_users', 'time': 1606222181.466872, 'account_name': 'test3'}
+2020-11-24 15:49:42,477 DEBUG server.py Сообщение клиента  : {'action': 'get_contacts', 'time': 1606222181.9876108, 'user': 'test3'}

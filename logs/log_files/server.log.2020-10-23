@@ -1,0 +1,84 @@
+2020-10-22 07:59:13,583 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 07:59:42,419 INFO server.py Установлено соедение  ('127.0.0.1', 55471)
+2020-10-22 07:59:42,419 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603342782.419041, 'user': {'account_name': 'Guest'}}
+2020-10-22 07:59:42,419 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603342782.419041, 'user': {'account_name': 'Guest'}}
+2020-10-22 07:59:42,419 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-22 08:03:51,798 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 08:03:55,158 INFO server.py Установлено соедение  ('127.0.0.1', 55522)
+2020-10-22 08:03:55,159 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603343035.158636, 'user': {'account_name': 'Guest'}}
+2020-10-22 08:03:55,159 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603343035.158636, 'user': {'account_name': 'Guest'}}
+2020-10-22 08:03:55,159 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-22 15:36:42,538 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 15:37:18,811 INFO server.py Установлено соедение  ('127.0.0.1', 52178)
+2020-10-22 15:37:18,811 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603370238.811497, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:37:18,811 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603370238.811497, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:37:18,812 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-22 15:41:20,713 INFO server.py Установлено соедение  ('127.0.0.1', 52488)
+2020-10-22 15:41:20,723 ERROR server.py Некорректное сообщение клиента.Ошибка декодирования.
+2020-10-22 15:42:11,565 INFO server.py Установлено соедение  ('127.0.0.1', 52585)
+2020-10-22 15:42:11,565 ERROR server.py Некорректное сообщение клиента.Ошибка декодирования.
+2020-10-22 15:42:22,575 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 15:42:29,260 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 15:42:30,638 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 15:42:32,537 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 15:44:20,370 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 15:44:24,890 INFO server.py Установлено соедение  ('127.0.0.1', 52815)
+2020-10-22 15:44:24,890 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603370664.890149, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:44:24,890 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603370664.890149, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:44:24,891 DEBUG decos_logging.py Обращение к функции : client_requests_handler с аргументами (({'action': 'presence', 'time': 1603370664.890149, 'user': {'account_name': 'Guest'}},), {})Функция client_requests_handler была вызвана <class 'datetime.datetime'> из функции 
+2020-10-22 15:44:24,891 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-22 15:45:08,107 INFO server.py Установлено соедение  ('127.0.0.1', 52838)
+2020-10-22 15:45:08,124 ERROR server.py Некорректное сообщение клиента.Ошибка декодирования.
+2020-10-22 15:45:26,658 INFO server.py Установлено соедение  ('127.0.0.1', 52849)
+2020-10-22 15:45:26,658 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603370726.6581938, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:45:26,658 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603370726.6581938, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:45:26,658 DEBUG decos_logging.py Обращение к функции : client_requests_handler с аргументами (({'action': 'presence', 'time': 1603370726.6581938, 'user': {'account_name': 'Guest'}},), {})Функция client_requests_handler была вызвана <class 'datetime.datetime'> из функции 
+2020-10-22 15:45:26,659 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-22 15:45:56,588 INFO server.py Установлено соедение  ('127.0.0.1', 52865)
+2020-10-22 15:45:56,602 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603370756.588233, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:45:56,602 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603370756.588233, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:45:56,602 DEBUG decos_logging.py Обращение к функции : client_requests_handler с аргументами (({'action': 'presence', 'time': 1603370756.588233, 'user': {'account_name': 'Guest'}},), {})Функция client_requests_handler была вызвана <class 'datetime.datetime'> из функции 
+2020-10-22 15:45:56,602 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-22 15:47:15,122 INFO server.py Установлено соедение  ('127.0.0.1', 52899)
+2020-10-22 15:47:15,145 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603370835.122205, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:47:15,145 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603370835.122205, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:47:15,145 DEBUG decos_logging.py Обращение к функции : client_requests_handler с аргументами (({'action': 'presence', 'time': 1603370835.122205, 'user': {'account_name': 'Guest'}},), {})Функция client_requests_handler была вызвана <class 'datetime.datetime'> из функции 
+2020-10-22 15:47:15,145 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-22 15:47:46,584 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 15:47:51,227 INFO server.py Установлено соедение  ('127.0.0.1', 52921)
+2020-10-22 15:47:51,242 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603370871.22778, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:47:51,242 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603370871.22778, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:47:51,262 DEBUG decos_logging.py Обращение к функции : client_requests_handler с аргументами (({'action': 'presence', 'time': 1603370871.22778, 'user': {'account_name': 'Guest'}},), {})Функция client_requests_handler была вызвана из функции [FrameInfo(frame=<frame at 0x7f819890e8b0, file '/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', line 20, code wrapper>, filename='/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', lineno=20, function='wrapper', code_context=['        LOGGER.debug(f"Обращение к функции : {func.__name__} с аргументами {args, kwargs}"\n'], index=0), FrameInfo(frame=<frame at 0x7f81988473c0, file '/Users/vladislavvovk/Documents/Учеба/chat/server.py', line 69, code main>, filename='/Users/vladislavvovk/Documents/Учеба/chat/server.py', lineno=69, function='main', code_context=['                response_to_client = client_requests_handler(message_from_client)\n'], index=0), FrameInfo(frame=<frame at 0x7f8197718850, file '/Users/vladislavvovk/Documents/Учеба/chat/server.py', line 78, code <module>>, filename='/Users/vladislavvovk/Documents/Учеба/chat/server.py', lineno=78, function='<module>', code_context=['    main()\n'], index=0)]
+2020-10-22 15:47:51,262 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-22 15:48:38,257 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 15:48:39,992 INFO server.py Установлено соедение  ('127.0.0.1', 52951)
+2020-10-22 15:48:40,010 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603370919.9920409, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:48:40,010 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603370919.9920409, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:48:40,033 DEBUG decos_logging.py Обращение к функции : client_requests_handler с аргументами (({'action': 'presence', 'time': 1603370919.9920409, 'user': {'account_name': 'Guest'}},), {})Функция client_requests_handler была вызвана из функции main
+2020-10-22 15:48:40,033 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-22 15:49:49,433 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 15:49:51,164 INFO server.py Установлено соедение  ('127.0.0.1', 52954)
+2020-10-22 15:49:51,179 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603370991.1644878, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:49:51,179 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603370991.1644878, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:49:51,199 DEBUG decos_logging.py Обращение к функции : client_requests_handler с аргументами ({'action': 'presence', 'time': 1603370991.1644878, 'user': {'account_name': 'Guest'}},) {}Функция client_requests_handler была вызвана <class 'datetime.datetime'> из функции main
+2020-10-22 15:49:51,199 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-22 15:51:41,466 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 15:51:42,968 INFO server.py Установлено соедение  ('127.0.0.1', 53057)
+2020-10-22 15:51:42,985 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603371102.96833, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:51:42,985 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603371102.96833, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:51:43,007 DEBUG decos_logging.py Обращение к функции : client_requests_handler с аргументами ({'action': 'presence', 'time': 1603371102.96833, 'user': {'account_name': 'Guest'}},) {}Функция client_requests_handler была вызвана 2020-10-22 15:51:42.985565 из функции main
+2020-10-22 15:51:43,007 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-22 15:54:38,757 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-22 15:54:41,619 INFO server.py Установлено соедение  ('127.0.0.1', 53186)
+2020-10-22 15:54:41,641 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603371281.619642, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:54:41,641 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603371281.619642, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:54:41,655 DEBUG decos_logging.py Обращение к функции : client_requests_handler с аргументами ({'action': 'presence', 'time': 1603371281.619642, 'user': {'account_name': 'Guest'}},) {}Функция client_requests_handler была вызвана 22-10-2020 15:54 из функции main
+2020-10-22 15:54:41,656 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-23 11:01:12,484 INFO server.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-23 11:01:25,089 INFO server.py Установлено соедение  ('127.0.0.1', 51290)
+2020-10-23 11:01:25,109 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами () {}.Функция create_presence была вызвана : 23-10-2020 11:01 из функции main
+2020-10-23 11:01:25,109 DEBUG server.py Получено сообщение от клиента : {'action': 'presence', 'time': 1603440085.089838, 'user': {'account_name': 'Guest'}}
+2020-10-23 11:01:25,110 DEBUG server.py Сообщение клиента  : {'action': 'presence', 'time': 1603440085.089838, 'user': {'account_name': 'Guest'}}
+2020-10-23 11:01:25,128 DEBUG decos_logging.py Обращение к функции : client_requests_handler с аргументами ({'action': 'presence', 'time': 1603440085.089838, 'user': {'account_name': 'Guest'}},) {}.Функция client_requests_handler была вызвана : 23-10-2020 11:01 из функции main
+2020-10-23 11:01:25,129 INFO server.py Сформировано сообщение для клиента : {'response': 200}
+2020-10-23 11:01:25,130 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами ({'response': 200},) {}.Функция server_response_handler была вызвана : 23-10-2020 11:01 из функции main

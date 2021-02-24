@@ -1,0 +1,546 @@
+2020-11-27 15:42:42,194 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 15:42 из функции main
+2020-11-27 15:42:42,199 INFO server.py Аргументы успешно загружены
+2020-11-27 15:42:42,200 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 15:42 из функции main
+2020-11-27 15:42:42,311 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 15:45:14,157 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 15:45 из функции main
+2020-11-27 15:45:14,160 INFO server.py Аргументы успешно загружены
+2020-11-27 15:45:14,160 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 15:45 из функции main
+2020-11-27 15:45:14,215 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 15:48:44,074 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 15:48 из функции main
+2020-11-27 15:48:44,077 INFO server.py Аргументы успешно загружены
+2020-11-27 15:48:44,078 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 15:48 из функции main
+2020-11-27 15:48:44,157 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 15:49:00,261 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 15:49 из функции main
+2020-11-27 15:49:00,264 INFO server.py Аргументы успешно загружены
+2020-11-27 15:49:00,265 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 15:49 из функции main
+2020-11-27 15:49:00,314 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 16:01:33,856 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 16:01 из функции main
+2020-11-27 16:01:33,858 INFO server.py Аргументы успешно загружены
+2020-11-27 16:01:33,858 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 16:01 из функции main
+2020-11-27 16:01:33,913 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 16:03:06,792 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 16:03 из функции main
+2020-11-27 16:03:06,795 INFO server.py Аргументы успешно загружены
+2020-11-27 16:03:06,795 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 16:03 из функции main
+2020-11-27 16:03:06,833 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 18:32:32,240 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 18:32 из функции main
+2020-11-27 18:32:32,244 INFO server.py Аргументы успешно загружены
+2020-11-27 18:32:32,244 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 18:32 из функции main
+2020-11-27 18:32:32,319 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 18:41:48,511 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 18:41 из функции main
+2020-11-27 18:41:48,514 INFO server.py Аргументы успешно загружены
+2020-11-27 18:41:48,514 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 18:41 из функции main
+2020-11-27 18:41:48,575 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 18:47:25,053 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 18:47 из функции main
+2020-11-27 18:47:25,054 INFO server.py Аргументы успешно загружены
+2020-11-27 18:47:25,055 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 18:47 из функции main
+2020-11-27 18:47:25,112 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 18:54:43,813 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 18:54 из функции main
+2020-11-27 18:54:43,816 INFO server.py Аргументы успешно загружены
+2020-11-27 18:54:43,817 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 18:54 из функции main
+2020-11-27 18:54:43,873 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 19:07:45,657 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 19:07 из функции main
+2020-11-27 19:07:45,660 INFO server.py Аргументы успешно загружены
+2020-11-27 19:07:45,661 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 19:07 из функции main
+2020-11-27 19:07:45,732 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 19:13:06,176 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 19:13 из функции main
+2020-11-27 19:13:06,180 INFO server.py Аргументы успешно загружены
+2020-11-27 19:13:06,180 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 19:13 из функции main
+2020-11-27 19:13:06,313 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 19:41:47,765 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 19:41 из функции main
+2020-11-27 19:41:47,768 INFO server.py Аргументы успешно загружены
+2020-11-27 19:41:47,768 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 19:41 из функции main
+2020-11-27 19:41:47,846 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 19:43:11,567 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 19:43 из функции main
+2020-11-27 19:43:11,570 INFO server.py Аргументы успешно загружены
+2020-11-27 19:43:11,571 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 19:43 из функции main
+2020-11-27 19:43:11,651 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 19:56:41,541 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 19:56 из функции main
+2020-11-27 19:56:41,545 INFO server.py Аргументы успешно загружены
+2020-11-27 19:56:41,545 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 19:56 из функции main
+2020-11-27 19:56:41,606 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 19:57:37,477 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 19:57 из функции main
+2020-11-27 19:57:37,479 INFO server.py Аргументы успешно загружены
+2020-11-27 19:57:37,479 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 19:57 из функции main
+2020-11-27 19:57:37,531 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 19:57:43,376 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 19:57 из функции <module>
+2020-11-27 19:57:46,107 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 19:57 из функции <module>
+2020-11-27 19:57:49,142 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 19:57 из функции <module>
+2020-11-27 20:03:56,822 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 20:03 из функции main
+2020-11-27 20:03:56,823 INFO server.py Аргументы успешно загружены
+2020-11-27 20:03:56,824 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 20:03 из функции main
+2020-11-27 20:03:56,879 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 20:04:01,340 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 20:04 из функции <module>
+2020-11-27 20:04:04,464 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 20:04 из функции <module>
+2020-11-27 20:04:07,300 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 20:04 из функции <module>
+2020-11-27 20:04:20,971 INFO core.py Установлено соедение  ('127.0.0.1', 57112)
+2020-11-27 20:04:21,979 DEBUG core.py Сообщение клиента  : {'action': 'presense', 'time': 1606496660.9849432, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-27 20:04:22,982 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/server/core.py", line 82, in run
+    self.client_requests_handler(get_message(client_with_message), client_with_message)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2020-11-27 20:04:22,997 INFO core.py Клиент ('127.0.0.1', 57112) отключился от сервера.
+2020-11-27 20:16:50,715 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 20:16 из функции main
+2020-11-27 20:16:50,716 INFO server.py Аргументы успешно загружены
+2020-11-27 20:16:50,717 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 20:16 из функции main
+2020-11-27 20:16:50,789 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 20:16:56,718 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 20:16 из функции <module>
+2020-11-27 20:16:59,361 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 20:16 из функции <module>
+2020-11-27 20:17:02,375 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 20:17 из функции <module>
+2020-11-27 20:17:18,762 INFO core.py Установлено соедение  ('127.0.0.1', 58329)
+2020-11-27 20:17:19,763 DEBUG core.py Сообщение : {'action': 'presense', 'time': 1606497438.773794, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58329)>
+2020-11-27 20:17:20,767 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/server/core.py", line 82, in run
+    self.client_requests_handler(get_message(client_with_message), client_with_message)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2020-11-27 20:17:20,781 INFO core.py Клиент ('127.0.0.1', 58329) отключился от сервера.
+2020-11-27 20:29:47,021 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 20:29 из функции main
+2020-11-27 20:29:47,022 INFO server.py Аргументы успешно загружены
+2020-11-27 20:29:47,023 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 20:29 из функции main
+2020-11-27 20:29:47,082 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 20:29:51,293 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 20:29 из функции <module>
+2020-11-27 20:29:54,290 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 20:29 из функции <module>
+2020-11-27 20:29:57,183 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 20:29 из функции <module>
+2020-11-27 20:30:09,837 INFO core.py Установлено соедение  ('127.0.0.1', 59604)
+2020-11-27 20:30:10,840 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606498209.8484101, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59604)>
+2020-11-27 20:30:10,840 DEBUG core.py Принято и обработано presence сообщение
+2020-11-27 20:30:10,840 DEBUG core.py Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-27 20:53:03,579 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 27-11-2020 20:53 из функции main
+2020-11-27 20:53:03,582 INFO server.py Аргументы успешно загружены
+2020-11-27 20:53:03,582 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 27-11-2020 20:53 из функции main
+2020-11-27 20:53:03,646 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-27 20:53:09,816 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 20:53 из функции <module>
+2020-11-27 20:53:13,154 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 20:53 из функции <module>
+2020-11-27 20:53:15,631 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 27-11-2020 20:53 из функции <module>
+2020-11-27 20:53:23,790 INFO core.py Установлено соедение  ('127.0.0.1', 60646)
+2020-11-27 20:53:24,796 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606499603.800839, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 60646)>
+2020-11-27 20:53:24,797 DEBUG core.py Принято и обработано presence сообщение
+2020-11-27 20:53:24,797 DEBUG core.py Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 14:12:25,085 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 14:12 из функции main
+2020-11-28 14:12:25,088 INFO server.py Аргументы успешно загружены
+2020-11-28 14:12:25,088 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 14:12 из функции main
+2020-11-28 14:12:25,170 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 14:13:07,716 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 14:13 из функции <module>
+2020-11-28 14:13:10,224 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 14:13 из функции <module>
+2020-11-28 14:13:13,202 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 14:13 из функции <module>
+2020-11-28 14:13:29,237 INFO core.py Установлено соедение  ('127.0.0.1', 56269)
+2020-11-28 14:13:32,244 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606562009.249855, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56269)>
+2020-11-28 14:13:32,244 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 14:13:32,244 DEBUG core.py Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 14:13:32,244 DEBUG core.py Message in func autorize_user : {'action': 'presence', 'time': 1606562009.249855, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 14:37:39,515 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 14:37 из функции main
+2020-11-28 14:37:39,518 INFO server.py Аргументы успешно загружены
+2020-11-28 14:37:39,519 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 14:37 из функции main
+2020-11-28 14:37:39,577 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 14:37:47,408 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 14:37 из функции <module>
+2020-11-28 14:37:50,147 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 14:37 из функции <module>
+2020-11-28 14:37:53,165 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 14:37 из функции <module>
+2020-11-28 14:38:04,938 INFO core.py Установлено соедение  ('127.0.0.1', 58063)
+2020-11-28 14:38:07,939 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606563484.9480162, 'user': {'account_name': 'user1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3q+vN/pB0LDLBaNrVbRV\nJ6QQWIOF+SXxcYg1rhCMfe1rjBNT5/6/D8soKP2HQWJmlcmGfnQ1feEZ0YnXxKsk\nX4ZLr+PyNRzntYfF3218zoeZ6obu3kXPLQNa3RHg0+xemCam0PDlhHnxKPQXdREW\n1bY/ZoCaTCsL+J1DTPiUm02RbiWOM+S9rdI5TvpOZnTzeFGKlDDSmxzbalEpIU+1\nRB/30XYSM85JqKdkQIhFaOdpUSjczTIVGlWlqh3vHVaJuJ+GCqlGV1qmZwHmxdUf\n8QCPCJXdanTJ3ZDE1VpLjzU/JoA4oyRDC2IK2/eFO0QG7cmhacT3rkMPowzQ8oXX\n+QIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58063)>
+2020-11-28 14:38:07,943 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 14:38:07,943 DEBUG core.py Start auth process for {'account_name': 'user1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3q+vN/pB0LDLBaNrVbRV\nJ6QQWIOF+SXxcYg1rhCMfe1rjBNT5/6/D8soKP2HQWJmlcmGfnQ1feEZ0YnXxKsk\nX4ZLr+PyNRzntYfF3218zoeZ6obu3kXPLQNa3RHg0+xemCam0PDlhHnxKPQXdREW\n1bY/ZoCaTCsL+J1DTPiUm02RbiWOM+S9rdI5TvpOZnTzeFGKlDDSmxzbalEpIU+1\nRB/30XYSM85JqKdkQIhFaOdpUSjczTIVGlWlqh3vHVaJuJ+GCqlGV1qmZwHmxdUf\n8QCPCJXdanTJ3ZDE1VpLjzU/JoA4oyRDC2IK2/eFO0QG7cmhacT3rkMPowzQ8oXX\n+QIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 14:38:07,944 DEBUG core.py Message in func autorize_user : {'action': 'presence', 'time': 1606563484.9480162, 'user': {'account_name': 'user1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3q+vN/pB0LDLBaNrVbRV\nJ6QQWIOF+SXxcYg1rhCMfe1rjBNT5/6/D8soKP2HQWJmlcmGfnQ1feEZ0YnXxKsk\nX4ZLr+PyNRzntYfF3218zoeZ6obu3kXPLQNa3RHg0+xemCam0PDlhHnxKPQXdREW\n1bY/ZoCaTCsL+J1DTPiUm02RbiWOM+S9rdI5TvpOZnTzeFGKlDDSmxzbalEpIU+1\nRB/30XYSM85JqKdkQIhFaOdpUSjczTIVGlWlqh3vHVaJuJ+GCqlGV1qmZwHmxdUf\n8QCPCJXdanTJ3ZDE1VpLjzU/JoA4oyRDC2IK2/eFO0QG7cmhacT3rkMPowzQ8oXX\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 15:27:16,131 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 15:27 из функции main
+2020-11-28 15:27:16,133 INFO server.py Аргументы успешно загружены
+2020-11-28 15:27:16,133 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 15:27 из функции main
+2020-11-28 15:27:16,192 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 15:27:21,855 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 15:27 из функции <module>
+2020-11-28 15:27:24,824 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 15:27 из функции <module>
+2020-11-28 15:27:27,667 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 15:27 из функции <module>
+2020-11-28 15:27:42,959 INFO core.py Установлено соедение  ('127.0.0.1', 59744)
+2020-11-28 15:27:45,964 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606566462.969771, 'user': {'account_name': 'ivan', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwelQ6HVL6KEpjsRPs+Ef\npULT7KqZ8Ny1j0ToSDchZCYC1jFXBCbFbpnA9CG6put16gZqVw8koV1pSx3YPSvX\nrAAmboDo7iJpqjGfP/Th7c7Xq2lonxmTpFhDKOAmXnTFHlFnFiT42Zvty9qLGRiU\n0/D+W5EKI7WAEIWfIj7zxHTRgmpf1O31BrUzmioGbEppvrfqJzyVFBfQzTp+su3s\nBHdwCyHm5AaVDTL+/nvtpRTriC3eFnKnR4AaGg97V49VlbZP70cq+tZxXMhsEaGk\nVOgNq5x8vljC2/H42XpR1OrD2dA0ierqLjvY4ZsedVlASrPyTpMwxzdkSPNfisw6\niwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59744)>
+2020-11-28 15:27:45,965 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 15:27:45,965 DEBUG core.py Start auth process for {'account_name': 'ivan', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwelQ6HVL6KEpjsRPs+Ef\npULT7KqZ8Ny1j0ToSDchZCYC1jFXBCbFbpnA9CG6put16gZqVw8koV1pSx3YPSvX\nrAAmboDo7iJpqjGfP/Th7c7Xq2lonxmTpFhDKOAmXnTFHlFnFiT42Zvty9qLGRiU\n0/D+W5EKI7WAEIWfIj7zxHTRgmpf1O31BrUzmioGbEppvrfqJzyVFBfQzTp+su3s\nBHdwCyHm5AaVDTL+/nvtpRTriC3eFnKnR4AaGg97V49VlbZP70cq+tZxXMhsEaGk\nVOgNq5x8vljC2/H42XpR1OrD2dA0ierqLjvY4ZsedVlASrPyTpMwxzdkSPNfisw6\niwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 15:27:45,965 DEBUG core.py Message in func autorize_user : {'action': 'presence', 'time': 1606566462.969771, 'user': {'account_name': 'ivan', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwelQ6HVL6KEpjsRPs+Ef\npULT7KqZ8Ny1j0ToSDchZCYC1jFXBCbFbpnA9CG6put16gZqVw8koV1pSx3YPSvX\nrAAmboDo7iJpqjGfP/Th7c7Xq2lonxmTpFhDKOAmXnTFHlFnFiT42Zvty9qLGRiU\n0/D+W5EKI7WAEIWfIj7zxHTRgmpf1O31BrUzmioGbEppvrfqJzyVFBfQzTp+su3s\nBHdwCyHm5AaVDTL+/nvtpRTriC3eFnKnR4AaGg97V49VlbZP70cq+tZxXMhsEaGk\nVOgNq5x8vljC2/H42XpR1OrD2dA0ierqLjvY4ZsedVlASrPyTpMwxzdkSPNfisw6\niwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 16:05:14,479 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 16:05 из функции main
+2020-11-28 16:05:14,480 INFO server.py Аргументы успешно загружены
+2020-11-28 16:05:14,480 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 16:05 из функции main
+2020-11-28 16:05:14,551 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 16:05:20,449 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 16:05 из функции <module>
+2020-11-28 16:05:23,374 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 16:05 из функции <module>
+2020-11-28 16:05:26,622 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 16:05 из функции <module>
+2020-11-28 16:05:54,521 INFO core.py Установлено соедение  ('127.0.0.1', 61744)
+2020-11-28 16:05:57,523 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606568754.531988, 'user': {'account_name': 'petr', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp74s1JW8/KxI6TOubRDF\n56FkW07R1k4KZs/FeGE+XPXvlyYZ30vZwd7Phr9lOkDD8IGq67x5zV+5TPQ7rAth\nsaou6TQs3hxhzXhi8up+qUf46e6WareY0Z17zF/9BpESIAEtCjUmnmKTBDTES08C\nN34l1FktOYgRqahrkOQazP0XcYFBtRaDI0/2+tbLzFfZri2sHwCeWl+xosS1cIyo\nRWj90xDq1vySwEv+FufmGSfNW74XLze/dPToPF1wxo1aAFw/UJyUj+csRR+4GwX0\newgQSti2sa2ktwBW2mcEqHlvIlFMCe6RjzR0TEg6yHD6H/F/7xF44Qo8piifzGzZ\nrwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61744)>
+2020-11-28 16:05:57,523 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 16:05:57,523 DEBUG core.py Start auth process for {'account_name': 'petr', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp74s1JW8/KxI6TOubRDF\n56FkW07R1k4KZs/FeGE+XPXvlyYZ30vZwd7Phr9lOkDD8IGq67x5zV+5TPQ7rAth\nsaou6TQs3hxhzXhi8up+qUf46e6WareY0Z17zF/9BpESIAEtCjUmnmKTBDTES08C\nN34l1FktOYgRqahrkOQazP0XcYFBtRaDI0/2+tbLzFfZri2sHwCeWl+xosS1cIyo\nRWj90xDq1vySwEv+FufmGSfNW74XLze/dPToPF1wxo1aAFw/UJyUj+csRR+4GwX0\newgQSti2sa2ktwBW2mcEqHlvIlFMCe6RjzR0TEg6yHD6H/F/7xF44Qo8piifzGzZ\nrwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 16:05:57,523 DEBUG core.py Message in func autorize_user : {'action': 'presence', 'time': 1606568754.531988, 'user': {'account_name': 'petr', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp74s1JW8/KxI6TOubRDF\n56FkW07R1k4KZs/FeGE+XPXvlyYZ30vZwd7Phr9lOkDD8IGq67x5zV+5TPQ7rAth\nsaou6TQs3hxhzXhi8up+qUf46e6WareY0Z17zF/9BpESIAEtCjUmnmKTBDTES08C\nN34l1FktOYgRqahrkOQazP0XcYFBtRaDI0/2+tbLzFfZri2sHwCeWl+xosS1cIyo\nRWj90xDq1vySwEv+FufmGSfNW74XLze/dPToPF1wxo1aAFw/UJyUj+csRR+4GwX0\newgQSti2sa2ktwBW2mcEqHlvIlFMCe6RjzR0TEg6yHD6H/F/7xF44Qo8piifzGzZ\nrwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 16:05:57,530 DEBUG core.py Пользователь : petrне зарегистрирован.
+2020-11-28 16:05:57,530 DEBUG core.py Unknown username, sending {'response': 400, 'error': 'Пользователь не зарегистрирован.'}
+2020-11-28 16:41:20,954 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 16:41 из функции main
+2020-11-28 16:41:20,957 INFO server.py Аргументы успешно загружены
+2020-11-28 16:41:20,957 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 16:41 из функции main
+2020-11-28 16:41:21,024 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 16:41:26,800 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 16:41 из функции <module>
+2020-11-28 16:41:29,386 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 16:41 из функции <module>
+2020-11-28 16:41:32,158 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 16:41 из функции <module>
+2020-11-28 16:41:48,943 INFO core.py Установлено соедение  ('127.0.0.1', 62995)
+2020-11-28 16:41:51,945 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606570908.9532318, 'user': {'account_name': 'ivan2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmnsmxdMH40oJZcMeHfgQ\nPMYVoRPKSymxa2gZEoTczEGH22ny+TQZVtx1SGZGgqmKkVYveG9/h/SIq4JVqbIj\nILbOISmGy9uIrpi/tFVowNbRvJBGsmXCsJoU5MU6v0ra4tyu3BEdYDwsBdBPxHhB\nbote9V5KJhD3hyg+U9fOQxCNlm1hSVe4z97A2qSOBLz+qHvhspt6V7C4Gk596QZn\n+/sQuTnGVyaFukRsdJl5dcCCuVW+6nZ8QNe8DtHvcMQesxvg8Ixb04Dk8IaaOHMI\n22KZq1dfSm2RxfHH2kqKAeibNJjTlSp7CwWXbrDD76wtwZ0+0gxRVML9sTw6Ivjj\nDQIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=19, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62995)>
+2020-11-28 16:41:51,945 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 16:41:51,946 DEBUG core.py Start auth process for {'account_name': 'ivan2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmnsmxdMH40oJZcMeHfgQ\nPMYVoRPKSymxa2gZEoTczEGH22ny+TQZVtx1SGZGgqmKkVYveG9/h/SIq4JVqbIj\nILbOISmGy9uIrpi/tFVowNbRvJBGsmXCsJoU5MU6v0ra4tyu3BEdYDwsBdBPxHhB\nbote9V5KJhD3hyg+U9fOQxCNlm1hSVe4z97A2qSOBLz+qHvhspt6V7C4Gk596QZn\n+/sQuTnGVyaFukRsdJl5dcCCuVW+6nZ8QNe8DtHvcMQesxvg8Ixb04Dk8IaaOHMI\n22KZq1dfSm2RxfHH2kqKAeibNJjTlSp7CwWXbrDD76wtwZ0+0gxRVML9sTw6Ivjj\nDQIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 16:41:51,946 DEBUG core.py Message in func autorize_user : {'action': 'presence', 'time': 1606570908.9532318, 'user': {'account_name': 'ivan2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmnsmxdMH40oJZcMeHfgQ\nPMYVoRPKSymxa2gZEoTczEGH22ny+TQZVtx1SGZGgqmKkVYveG9/h/SIq4JVqbIj\nILbOISmGy9uIrpi/tFVowNbRvJBGsmXCsJoU5MU6v0ra4tyu3BEdYDwsBdBPxHhB\nbote9V5KJhD3hyg+U9fOQxCNlm1hSVe4z97A2qSOBLz+qHvhspt6V7C4Gk596QZn\n+/sQuTnGVyaFukRsdJl5dcCCuVW+6nZ8QNe8DtHvcMQesxvg8Ixb04Dk8IaaOHMI\n22KZq1dfSm2RxfHH2kqKAeibNJjTlSp7CwWXbrDD76wtwZ0+0gxRVML9sTw6Ivjj\nDQIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 16:41:51,952 DEBUG core.py Пользователь : ivan2не зарегистрирован.
+2020-11-28 16:41:51,952 DEBUG core.py Unknown username, sending {'response': 400, 'error': 'Пользователь не зарегистрирован.'}
+2020-11-28 16:41:51,953 DEBUG core.py Пользователь удален из списка потенциальных клиентов
+2020-11-28 22:08:12,312 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 22:08 из функции main
+2020-11-28 22:08:12,315 INFO server.py Аргументы успешно загружены
+2020-11-28 22:08:12,315 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 22:08 из функции main
+2020-11-28 22:08:12,385 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 22:08:38,022 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:08 из функции <module>
+2020-11-28 22:08:40,533 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:08 из функции <module>
+2020-11-28 22:08:43,377 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:08 из функции <module>
+2020-11-28 22:08:54,073 INFO core.py Установлено соедение  ('127.0.0.1', 59636)
+2020-11-28 22:08:57,076 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606590534.084308, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59636)>
+2020-11-28 22:08:57,077 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 22:08:57,077 DEBUG core.py Start auth process for {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 22:08:57,080 DEBUG core.py Correct username, starting password check.
+2020-11-28 22:08:57,083 DEBUG core.py Auth message = {'response': 511, 'bin': '8cef7e1cad55b31fdbf77fc3ffc1423188498ed7a1871051c8ee7b66a00a78f2fa40ecbbcc669de7198ea23cfb3f61305713b7f0ca5262e3762472fc4b05287d'}
+2020-11-28 22:09:00,096 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606590537.0862029, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59636)>
+2020-11-28 22:09:03,101 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606590540.1101289, 'user': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59636)>
+2020-11-28 22:09:06,107 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/server/core.py", line 84, in run
+    get_message(client_with_message), client_with_message)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2020-11-28 22:09:06,121 INFO core.py Клиент ('127.0.0.1', 59636) отключился от сервера.
+2020-11-28 22:38:37,790 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 22:38 из функции main
+2020-11-28 22:38:37,792 INFO server.py Аргументы успешно загружены
+2020-11-28 22:38:37,793 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 22:38 из функции main
+2020-11-28 22:38:37,843 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 22:38:41,111 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:38 из функции <module>
+2020-11-28 22:38:44,043 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:38 из функции <module>
+2020-11-28 22:38:47,067 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:38 из функции <module>
+2020-11-28 22:38:58,513 INFO core.py Установлено соедение  ('127.0.0.1', 61910)
+2020-11-28 22:39:01,516 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606592338.52255, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61910)>
+2020-11-28 22:39:01,516 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 22:39:01,516 DEBUG core.py Start auth process for {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 22:39:01,521 DEBUG core.py Correct username, starting password check.
+2020-11-28 22:39:01,524 DEBUG core.py Auth message = {'response': 511, 'bin': '6cf7903a1d5f137bbe9f76426dc8953ab0d1717f0d35ac4b527ef826d5384917518bf1301bcbf5d718a6bebe080d18f42e28dc7fb8bdfad35109ce688e037430'}
+2020-11-28 22:39:01,524 DEBUG core.py Ответ клиента корректный - клиент сохранен в список пользователей
+2020-11-28 22:39:04,541 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606592341.525293, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61910)>
+2020-11-28 22:39:07,549 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606592344.720588, 'user': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61910)>
+2020-11-28 22:39:10,558 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/server/core.py", line 84, in run
+    get_message(client_with_message), client_with_message)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2020-11-28 22:39:10,693 INFO core.py Клиент ('127.0.0.1', 61910) отключился от сервера.
+2020-11-28 22:39:53,670 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 22:39 из функции main
+2020-11-28 22:39:53,671 INFO server.py Аргументы успешно загружены
+2020-11-28 22:39:53,672 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 22:39 из функции main
+2020-11-28 22:39:53,718 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 22:39:55,974 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:39 из функции <module>
+2020-11-28 22:39:58,776 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:39 из функции <module>
+2020-11-28 22:40:02,096 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:40 из функции <module>
+2020-11-28 22:40:12,088 INFO core.py Установлено соедение  ('127.0.0.1', 61965)
+2020-11-28 22:40:15,092 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606592412.103849, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61965)>
+2020-11-28 22:40:15,092 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 22:40:15,093 DEBUG core.py Start auth process for {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 22:40:15,098 DEBUG core.py Correct username, starting password check.
+2020-11-28 22:40:15,100 DEBUG core.py Auth message = {'response': 511, 'bin': '6d728d2385554e2ce6deeba1d0808fb29fb9709af87680f6665c45c28a20383aa85be5e498512a6f1d839f831ce0521aaa5f5984755875547839ea39456a0073'}
+2020-11-28 22:40:15,101 DEBUG core.py Ответ клиента корректный - клиент сохранен в список пользователей
+2020-11-28 22:40:18,113 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606592415.102263, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61965)>
+2020-11-28 22:40:21,120 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606592418.1252558, 'user': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61965)>
+2020-11-28 22:40:24,128 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/server/core.py", line 84, in run
+    get_message(client_with_message), client_with_message)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2020-11-28 22:40:24,144 INFO core.py Клиент ('127.0.0.1', 61965) отключился от сервера.
+2020-11-28 22:56:12,384 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 22:56 из функции main
+2020-11-28 22:56:12,386 INFO server.py Аргументы успешно загружены
+2020-11-28 22:56:12,386 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 22:56 из функции main
+2020-11-28 22:56:12,467 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 22:56:15,277 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:56 из функции <module>
+2020-11-28 22:56:18,228 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:56 из функции <module>
+2020-11-28 22:56:20,852 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:56 из функции <module>
+2020-11-28 22:56:29,199 INFO core.py Установлено соедение  ('127.0.0.1', 62632)
+2020-11-28 22:56:32,202 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606593389.2087018, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62632)>
+2020-11-28 22:56:32,202 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 22:56:32,202 DEBUG core.py Start auth process for {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 22:56:32,211 DEBUG core.py Correct username, starting password check.
+2020-11-28 22:56:32,214 DEBUG core.py Auth message = {'response': 511, 'bin': '49b015563013cdf3d49e500997c9505e0097e1210e883113cf3eafae36a9cbac4a73fb8bc2e0041349d7b030a7e84d6c773ae7e80a2ccbf176d398bd92056cff'}
+2020-11-28 22:56:32,215 DEBUG core.py Ответ клиента корректный - клиент сохранен в список пользователей
+2020-11-28 22:56:35,229 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606593392.215847, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62632)>
+2020-11-28 22:56:38,236 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606593395.242111, 'user': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62632)>
+2020-11-28 22:56:41,241 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/server/core.py", line 84, in run
+    get_message(client_with_message), client_with_message)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2020-11-28 22:56:41,242 INFO core.py Клиент ('127.0.0.1', 62632) отключился от сервера.
+2020-11-28 22:57:58,092 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 22:57 из функции main
+2020-11-28 22:57:58,095 INFO server.py Аргументы успешно загружены
+2020-11-28 22:57:58,096 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 22:57 из функции main
+2020-11-28 22:57:58,159 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 22:58:04,710 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:58 из функции <module>
+2020-11-28 22:58:07,388 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 22:58 из функции <module>
+2020-11-28 22:58:16,331 INFO core.py Установлено соедение  ('127.0.0.1', 62788)
+2020-11-28 22:58:19,336 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606593496.343084, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62788)>
+2020-11-28 22:58:19,337 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 22:58:19,338 DEBUG core.py Start auth process for {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 22:58:19,343 DEBUG core.py Correct username, starting password check.
+2020-11-28 22:58:19,346 DEBUG core.py Auth message = {'response': 511, 'bin': '439d4cc29aa9da05065e228de38e9188450eed53f1a65659662b2a15248d13575e997feaf470deabac41e80a4eec30d1763771646ca1313cd6ed2c9c70bd7d88'}
+2020-11-28 22:58:19,347 DEBUG core.py Ответ клиента корректный - клиент сохранен в список пользователей
+2020-11-28 22:58:22,361 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606593499.348025, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62788)>
+2020-11-28 22:58:25,368 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606593502.375674, 'user': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62788)>
+2020-11-28 22:58:28,377 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/server/core.py", line 84, in run
+    get_message(client_with_message), client_with_message)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2020-11-28 22:58:28,390 INFO core.py Клиент ('127.0.0.1', 62788) отключился от сервера.
+2020-11-28 23:10:30,146 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 23:10 из функции main
+2020-11-28 23:10:30,150 INFO server.py Аргументы успешно загружены
+2020-11-28 23:10:30,151 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 23:10 из функции main
+2020-11-28 23:10:30,216 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 23:10:36,971 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 23:10 из функции <module>
+2020-11-28 23:10:39,871 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 23:10 из функции <module>
+2020-11-28 23:10:46,986 INFO core.py Установлено соедение  ('127.0.0.1', 63914)
+2020-11-28 23:10:49,990 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606594246.9967349, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63914)>
+2020-11-28 23:10:49,991 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 23:10:49,991 DEBUG core.py Start auth process for {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 23:10:50,000 DEBUG core.py Correct username, starting password check.
+2020-11-28 23:10:50,005 DEBUG core.py Auth message = {'response': 511, 'bin': '2561a1e4a6d6e50ff0cfff1ec1ac0494586b934924d095e289ef5a107cc9f890f1ac3d2d175e5c6e98e1daaf98eb9dab7bc34ca3bf3aa2ea58fb04e0f81fe80f'}
+2020-11-28 23:10:50,007 DEBUG core.py Ответ клиента корректный - клиент сохранен в список пользователей
+2020-11-28 23:10:53,024 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606594250.00835, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63914)>
+2020-11-28 23:10:56,030 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606594253.0370162, 'user': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63914)>
+2020-11-28 23:10:59,042 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/server/core.py", line 84, in run
+    get_message(client_with_message), client_with_message)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2020-11-28 23:10:59,056 INFO core.py Клиент ('127.0.0.1', 63914) отключился от сервера.
+2020-11-28 23:11:42,221 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 23:11 из функции main
+2020-11-28 23:11:42,222 INFO server.py Аргументы успешно загружены
+2020-11-28 23:11:42,223 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 23:11 из функции main
+2020-11-28 23:11:42,268 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 23:11:47,119 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 23:11 из функции <module>
+2020-11-28 23:11:49,891 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 23:11 из функции <module>
+2020-11-28 23:11:56,542 INFO core.py Установлено соедение  ('127.0.0.1', 64120)
+2020-11-28 23:11:59,548 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606594316.552659, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 64120)>
+2020-11-28 23:11:59,548 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 23:11:59,548 DEBUG core.py Start auth process for {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 23:11:59,556 DEBUG core.py Correct username, starting password check.
+2020-11-28 23:11:59,559 DEBUG core.py Auth message = {'response': 511, 'bin': '7b7475d2a2be3d26656dce3b2b59a46bf4a80184fbdbfc18a9a003d33cb37e790c01bd22130d8846b5f45a8273482a48976022a05abda8ecb89c76fb144bb3fc'}
+2020-11-28 23:11:59,560 DEBUG core.py Ответ клиента корректный - клиент сохранен в список пользователей
+2020-11-28 23:12:02,574 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606594319.561439, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 64120)>
+2020-11-28 23:12:05,579 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606594322.5903842, 'user': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 64120)>
+2020-11-28 23:12:08,588 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/server/core.py", line 84, in run
+    get_message(client_with_message), client_with_message)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2020-11-28 23:12:08,603 INFO core.py Клиент ('127.0.0.1', 64120) отключился от сервера.
+2020-11-28 23:13:10,509 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 23:13 из функции main
+2020-11-28 23:13:10,511 INFO server.py Аргументы успешно загружены
+2020-11-28 23:13:10,511 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 23:13 из функции main
+2020-11-28 23:13:10,561 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 23:13:16,576 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 23:13 из функции <module>
+2020-11-28 23:13:19,421 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 23:13 из функции <module>
+2020-11-28 23:13:24,417 INFO core.py Установлено соедение  ('127.0.0.1', 64264)
+2020-11-28 23:13:27,419 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606594404.4277499, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 64264)>
+2020-11-28 23:13:27,419 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 23:13:27,419 DEBUG core.py Start auth process for {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 23:13:27,425 DEBUG core.py Correct username, starting password check.
+2020-11-28 23:13:27,427 DEBUG core.py Auth message = {'response': 511, 'bin': '451a004bf91efe0d030ee637ccefeb9a872645b859afd1732d0a60e237fd09e131388b61814a6e7f760b26f46b3cfe7e1953f7f4891bbe33c171c4e7488bbf6e'}
+2020-11-28 23:13:27,428 DEBUG core.py Ответ клиента корректный - клиент сохранен в список пользователей
+2020-11-28 23:13:30,445 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606594407.429706, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 64264)>
+2020-11-28 23:13:33,448 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606594410.457443, 'user': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 64264)>
+2020-11-28 23:13:36,456 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/server/core.py", line 84, in run
+    get_message(client_with_message), client_with_message)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2020-11-28 23:13:36,471 INFO core.py Клиент ('127.0.0.1', 64264) отключился от сервера.
+2020-11-28 23:55:18,415 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 28-11-2020 23:55 из функции main
+2020-11-28 23:55:18,424 INFO server.py Аргументы успешно загружены
+2020-11-28 23:55:18,425 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 28-11-2020 23:55 из функции main
+2020-11-28 23:55:18,487 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-28 23:55:24,909 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 23:55 из функции <module>
+2020-11-28 23:55:27,629 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 28-11-2020 23:55 из функции <module>
+2020-11-28 23:55:40,139 INFO core.py Установлено соедение  ('127.0.0.1', 53331)
+2020-11-28 23:55:43,145 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606596940.151218, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EYtI1wVdGqTe+SjLGV7\nHwUB1hwxqlO4DB068NnijVX3jcSxGKgrwpzSt6+WP3HRHBaCA+A5WCrl4lmVDO21\nXuB6JsUzGSd9e+Y9KYZ6f++nf0B3mBa0z75dWqATBhOL3F16rnHbi39I5G/WeRK/\nztYgj1US6Ju7gcg23dzl0/PGmPzD+/rkC7hS15SfCGkOSzDw5P/QXUtKP/gigs4E\nZuCUeij7k+1SHqsoE3l/UcH0l48Mku7FZ8JhItlm3xrMC0rNWeh4OIxuiEMq6Htl\nflgNQMqpMF2Qvf21qaEMnyGvCnu1RpH4VDSJLZjnCMOWgJUdwEJW5vvRi4HGz5mp\nNwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53331)>
+2020-11-28 23:55:43,146 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 23:55:43,146 DEBUG core.py Start auth process for {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EYtI1wVdGqTe+SjLGV7\nHwUB1hwxqlO4DB068NnijVX3jcSxGKgrwpzSt6+WP3HRHBaCA+A5WCrl4lmVDO21\nXuB6JsUzGSd9e+Y9KYZ6f++nf0B3mBa0z75dWqATBhOL3F16rnHbi39I5G/WeRK/\nztYgj1US6Ju7gcg23dzl0/PGmPzD+/rkC7hS15SfCGkOSzDw5P/QXUtKP/gigs4E\nZuCUeij7k+1SHqsoE3l/UcH0l48Mku7FZ8JhItlm3xrMC0rNWeh4OIxuiEMq6Htl\nflgNQMqpMF2Qvf21qaEMnyGvCnu1RpH4VDSJLZjnCMOWgJUdwEJW5vvRi4HGz5mp\nNwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 23:55:43,154 DEBUG core.py Correct username, starting password check.
+2020-11-28 23:55:43,159 DEBUG core.py Auth message = {'response': 511, 'bin': '8b13a0465bcec2ec23c84c2ee1ff5dace1b494fe1e1447a14bf523f40fca689658fb7528db0b55a30a796a622f77f09131dbc28c6d8ed42fb2942b637aaa77ca'}
+2020-11-28 23:55:43,162 DEBUG core.py Ответ клиента корректный - клиент сохранен в список пользователей
+2020-11-28 23:55:46,178 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606596943.163288, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53331)>
+2020-11-28 23:55:49,181 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606596946.192626, 'user': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53331)>
+2020-11-28 23:56:22,217 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606596981.825307, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53331)>
+2020-11-28 23:56:25,222 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606596982.2315881, 'user': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53331)>
+2020-11-28 23:56:32,885 INFO core.py Установлено соедение  ('127.0.0.1', 53415)
+2020-11-28 23:56:35,890 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606596992.894811, 'user': {'account_name': 'vasya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0AXzdbgw0UUsu/aqEZm8\nn1Ro7PuwYU37z9Lus5DV6vlB+0/3V0aMHigHeDNsmCrYLyqQf1bBZ/GENTK3sLXq\npcztGwl1zbDKYfEzCzyPPjrfijGlR5stkKURzu1oIVEbNhBhRDNqftXjkjta52o7\nORFMPXuHJjoVfXFmNzp1BsdxGFZ3XRB5YpnRF3JEEq1wsWmRHxoXf59hieegSX/v\ny0qFAkDpbPzdVyW/rXTk4YAUuVK8JiXiBq/9hdAcqkPiuf+mkXLGvUD1/c0GnYM6\nXNYVTj2gR+ZfhvIfL2i9kwwOtALaH2ogIFKRb0d3nn1moTFi9f2kcieTElNfdWDb\nbwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53415)>
+2020-11-28 23:56:35,890 DEBUG core.py Принято и обработано presence сообщение
+2020-11-28 23:56:35,890 DEBUG core.py Start auth process for {'account_name': 'vasya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0AXzdbgw0UUsu/aqEZm8\nn1Ro7PuwYU37z9Lus5DV6vlB+0/3V0aMHigHeDNsmCrYLyqQf1bBZ/GENTK3sLXq\npcztGwl1zbDKYfEzCzyPPjrfijGlR5stkKURzu1oIVEbNhBhRDNqftXjkjta52o7\nORFMPXuHJjoVfXFmNzp1BsdxGFZ3XRB5YpnRF3JEEq1wsWmRHxoXf59hieegSX/v\ny0qFAkDpbPzdVyW/rXTk4YAUuVK8JiXiBq/9hdAcqkPiuf+mkXLGvUD1/c0GnYM6\nXNYVTj2gR+ZfhvIfL2i9kwwOtALaH2ogIFKRb0d3nn1moTFi9f2kcieTElNfdWDb\nbwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-28 23:56:35,894 DEBUG core.py Correct username, starting password check.
+2020-11-28 23:56:35,896 DEBUG core.py Auth message = {'response': 511, 'bin': '428427e4ba612497172b50d5e7f1d6597dab0b32887bed0dad5643fb04a5409046f24ebc17204d37a832bcb353e58472efa403266b14bd45f240bc9538198549'}
+2020-11-28 23:56:35,897 DEBUG core.py Ответ клиента корректный - клиент сохранен в список пользователей
+2020-11-28 23:56:38,914 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606596995.8982341, 'account_name': 'vasya'} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53415)>
+2020-11-28 23:56:41,917 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606596998.925018, 'user': 'vasya'} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53415)>
+2020-11-28 23:57:08,956 DEBUG core.py Сообщение : {'action': 'add', 'time': 1606597028.493004, 'user': 'vasya', 'account_name': 'vlad'} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53415)>
+2020-11-28 23:57:17,976 DEBUG core.py Сообщение : {'action': 'add', 'time': 1606597036.090432, 'user': 'vlad', 'account_name': 'vasya'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53331)>
+2020-11-28 23:57:26,995 DEBUG core.py Сообщение : {'action': 'pubkey_need', 'time': 1606597046.227953, 'account_name': 'vasya'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53331)>
+2020-11-28 23:57:36,002 DEBUG core.py Сообщение : {'action': 'message', 'from': 'vlad', 'to': 'vasya', 'time': 1606597055.0041301, 'message_text': 'p/zNkMYyyoglDS2MqzcZdt81eYN/HoAWVwsWDFPZe9lLvqoGEFSrmjjCCcYAW+lMkpMczyetomy395KKZqFsmL1Ho4OLU+N9PaFmSBvgIWPjBgXwK1llrSjfjXZCiz3DWEj88ZccBrQBKvAbFdD+ZQXcKXo7wNmGPlbi9LCuOOjKTP6VY43tTKqjgWFbjqbgmqlBU2156Ske76g56Lgv36U4yQxN7GWxqvraUbaO8JyOuWJSj+Lzc1/8+nXv6fwP+OnrEoltVuaXwVcxhUyjp+Z8QUTNM6H4v7eo9B4wizp/ULRP+mEZceMZYFUGYviPuKDnQV+vNeZCOYukhWb61A=='} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53331)>
+2020-11-28 23:57:36,002 DEBUG core.py Принято сообщение --- > проверка пользователя -- > отправка получателю
+2020-11-28 23:57:36,015 INFO core.py Отправлено сообщение пользователю vasya от пользователя vlad.
+2020-11-28 23:57:42,017 DEBUG core.py Сообщение : {'action': 'pubkey_need', 'time': 1606597059.2050922, 'account_name': 'vlad'} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53415)>
+2020-11-28 23:58:12,045 DEBUG core.py Сообщение : {'action': 'pubkey_need', 'time': 1606597090.632145, 'account_name': 'vlad'} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53415)>
+2020-11-28 23:58:18,056 DEBUG core.py Сообщение : {'action': 'message', 'from': 'vasya', 'to': 'vlad', 'time': 1606597097.3119118, 'message_text': 'Asl/NgiLxSRX186P4qsNXi5h4+WwBbVbG4MgOM0WceSKmYrh5C5J5zNIEMCo4eZsHBEQCTiklpxoKpWupvgjRphHSXMaFKTLGyDjnIk65uFKyFg6Ro88XrCCatJIRVrA6v1VN3+Ab+pT6Eq0H8JrSWibmnnZ/9QOVWUsyRSqeI81BA6FHAF4RIZvuy+MhJ3ZwXXXd4ojuvqg95Heu55ujPfYWOZIa1xwcaNJLPelcRL3jbZAoBlERfscn7Neaz+jdgYWB9TPDqX3f1V8DH+OZ7QLFxLnvwu3h3373yRsgafMh5z55mb4KN0yzzllkJc2JImDTRd5U1lLIAYs8xaQBQ=='} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53415)>
+2020-11-28 23:58:18,056 DEBUG core.py Принято сообщение --- > проверка пользователя -- > отправка получателю
+2020-11-28 23:58:18,064 INFO core.py Отправлено сообщение пользователю vlad от пользователя vasya.
+2020-11-28 23:58:33,076 DEBUG core.py Сообщение : {'action': 'message', 'from': 'vlad', 'to': 'vasya', 'time': 1606597111.295558, 'message_text': 'oP8YBHLc8jkAFJBZDVTWs35NAlQQQoN/a+jGfSLLTrZY20vtSobRYO8zwwn72tLCQKQH8DKRBHbCrAW8KuPojC/quvzVg5Y73Zb1mleooCg60TgcetwOvTIOfJfEk+2+1lT8fF2O4ALrzyvVpQEzfJQk7VU5thYPcNSqbByZbtxfLOYRmY9oM0Lbr3PdFyHBbZw6F0jRb3LTCfnguyB5ZM9sW2GdR1YnXTpcJxF7gtFqobwK+ueEj8F4HDD9DgJe2PyYFkwa6Cp7BdyDzbPdithuy6fXU69AWttRjPn2JUdFDNjMWC0eQlWpHpXv3HWyTlNoICByPpw743bgHtWGuQ=='} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53331)>
+2020-11-28 23:58:33,078 DEBUG core.py Принято сообщение --- > проверка пользователя -- > отправка получателю
+2020-11-28 23:58:33,085 INFO core.py Отправлено сообщение пользователю vasya от пользователя vlad.
+2020-11-28 23:58:45,097 DEBUG core.py Сообщение : {'action': 'message', 'from': 'vasya', 'to': 'vlad', 'time': 1606597124.622071, 'message_text': 'sWRAKpGi5npN/nP7E4jTAgk1M2NEiIkSWbkYZzfZLZSQc06Cd6chzdsehkQSpj9TMDuCwJmow6JOUPGwajlKt6WmvspMNHj2IigXMmENuxujZGcrwALWMieNb7Sdu4ejtOY/63DLyo+P8Ku70FopntzdOYIef04Z1X9y1syxSNhI0+HpzHlg339HLhpJxTP3IRiu6zsGTFLzPe04IMHBsWI0jnnmdX+XZdhqOUHxEou4M7FBysWq2J8GEKJPhcoFYi0KQ8klAWXkY4og4Cr5yX5cncI2Y3C8VylVw/zMMGpoC4+xyzc/28umHe2gnxHDgTLmYc/rJwBYTZibmU/1hg=='} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53415)>
+2020-11-28 23:58:45,099 DEBUG core.py Принято сообщение --- > проверка пользователя -- > отправка получателю
+2020-11-28 23:58:45,110 INFO core.py Отправлено сообщение пользователю vlad от пользователя vasya.
+2020-11-29 12:31:55,579 DEBUG core.py Сообщение : {'action': 'message', 'from': 'vlad', 'to': 'vasya', 'time': 1606642315.312899, 'message_text': 'bXmL60Q4bvHZnfZLLONtjve+zk4Ve/9yfRC0wVovvrkqyzhwemUbYOnL3GzAQZwGdGK02cr7d6Y1yPXZsvvnqZXl4msCQChFFVpDSV9lmReb7yv58Sf8aaWrg218WpUgsi9wnoIwSR+gHDI9KqIExEbY/xcsSAmz4DuqClhOh6CdJnFsU6Bbmpbww0+qxRRyg+tHSDpc9bNLPRzNdUOiXho5k9JlJ+8Dp4XUmx5ncbBKTLn2NLTHlnWBq4sUhNKqDdZMhjI0I1o/pus6ceAb+e3KWhUqMLx6rtOjuPWyc2ZnIxeuwQBaMycp/zdN/11gmlcCx0zPXYAk2EOukcaLsA=='} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53331)>
+2020-11-29 12:31:55,583 DEBUG core.py Принято сообщение --- > проверка пользователя -- > отправка получателю
+2020-11-29 12:31:55,598 INFO core.py Отправлено сообщение пользователю vasya от пользователя vlad.
+2020-11-30 09:21:53,541 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 30-11-2020 09:21 из функции main
+2020-11-30 09:21:53,544 INFO server.py Аргументы успешно загружены
+2020-11-30 09:21:53,544 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 30-11-2020 09:21 из функции main
+2020-11-30 09:21:53,612 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-30 09:22:03,262 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 30-11-2020 09:22 из функции <module>
+2020-11-30 09:22:06,046 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 30-11-2020 09:22 из функции <module>
+2020-11-30 09:22:17,647 INFO core.py Установлено соедение  ('127.0.0.1', 57720)
+2020-11-30 09:22:20,652 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606717337.658792, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EYtI1wVdGqTe+SjLGV7\nHwUB1hwxqlO4DB068NnijVX3jcSxGKgrwpzSt6+WP3HRHBaCA+A5WCrl4lmVDO21\nXuB6JsUzGSd9e+Y9KYZ6f++nf0B3mBa0z75dWqATBhOL3F16rnHbi39I5G/WeRK/\nztYgj1US6Ju7gcg23dzl0/PGmPzD+/rkC7hS15SfCGkOSzDw5P/QXUtKP/gigs4E\nZuCUeij7k+1SHqsoE3l/UcH0l48Mku7FZ8JhItlm3xrMC0rNWeh4OIxuiEMq6Htl\nflgNQMqpMF2Qvf21qaEMnyGvCnu1RpH4VDSJLZjnCMOWgJUdwEJW5vvRi4HGz5mp\nNwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57720)>
+2020-11-30 09:22:20,652 DEBUG core.py Принято и обработано presence сообщение
+2020-11-30 09:22:20,653 DEBUG core.py Start auth process for {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EYtI1wVdGqTe+SjLGV7\nHwUB1hwxqlO4DB068NnijVX3jcSxGKgrwpzSt6+WP3HRHBaCA+A5WCrl4lmVDO21\nXuB6JsUzGSd9e+Y9KYZ6f++nf0B3mBa0z75dWqATBhOL3F16rnHbi39I5G/WeRK/\nztYgj1US6Ju7gcg23dzl0/PGmPzD+/rkC7hS15SfCGkOSzDw5P/QXUtKP/gigs4E\nZuCUeij7k+1SHqsoE3l/UcH0l48Mku7FZ8JhItlm3xrMC0rNWeh4OIxuiEMq6Htl\nflgNQMqpMF2Qvf21qaEMnyGvCnu1RpH4VDSJLZjnCMOWgJUdwEJW5vvRi4HGz5mp\nNwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-30 09:22:20,658 DEBUG core.py Correct username, starting password check.
+2020-11-30 09:22:20,660 DEBUG core.py Auth message = {'response': 511, 'bin': 'e1e83e23be468783ec37140630b3e13cba88afff627b52ac46c069460cbe289dc6feeb2624191c51edf68b4d16ff25a6c206a704da3878d45dc88f684bcd24e9'}
+2020-11-30 09:22:20,661 DEBUG core.py Ответ клиента корректный - клиент сохранен в список пользователей
+2020-11-30 09:22:23,678 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606717340.662048, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57720)>
+2020-11-30 09:22:26,683 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606717343.692319, 'user': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57720)>
+2020-11-30 09:22:30,463 INFO core.py Установлено соедение  ('127.0.0.1', 57787)
+2020-11-30 09:22:33,466 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606717350.474189, 'user': {'account_name': 'vasya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0AXzdbgw0UUsu/aqEZm8\nn1Ro7PuwYU37z9Lus5DV6vlB+0/3V0aMHigHeDNsmCrYLyqQf1bBZ/GENTK3sLXq\npcztGwl1zbDKYfEzCzyPPjrfijGlR5stkKURzu1oIVEbNhBhRDNqftXjkjta52o7\nORFMPXuHJjoVfXFmNzp1BsdxGFZ3XRB5YpnRF3JEEq1wsWmRHxoXf59hieegSX/v\ny0qFAkDpbPzdVyW/rXTk4YAUuVK8JiXiBq/9hdAcqkPiuf+mkXLGvUD1/c0GnYM6\nXNYVTj2gR+ZfhvIfL2i9kwwOtALaH2ogIFKRb0d3nn1moTFi9f2kcieTElNfdWDb\nbwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57787)>
+2020-11-30 09:22:33,466 DEBUG core.py Принято и обработано presence сообщение
+2020-11-30 09:22:33,467 DEBUG core.py Start auth process for {'account_name': 'vasya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0AXzdbgw0UUsu/aqEZm8\nn1Ro7PuwYU37z9Lus5DV6vlB+0/3V0aMHigHeDNsmCrYLyqQf1bBZ/GENTK3sLXq\npcztGwl1zbDKYfEzCzyPPjrfijGlR5stkKURzu1oIVEbNhBhRDNqftXjkjta52o7\nORFMPXuHJjoVfXFmNzp1BsdxGFZ3XRB5YpnRF3JEEq1wsWmRHxoXf59hieegSX/v\ny0qFAkDpbPzdVyW/rXTk4YAUuVK8JiXiBq/9hdAcqkPiuf+mkXLGvUD1/c0GnYM6\nXNYVTj2gR+ZfhvIfL2i9kwwOtALaH2ogIFKRb0d3nn1moTFi9f2kcieTElNfdWDb\nbwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-30 09:22:33,470 DEBUG core.py Correct username, starting password check.
+2020-11-30 09:22:33,473 DEBUG core.py Auth message = {'response': 511, 'bin': 'b0425ab9ea33f114ee437d34aa25b988bdf9f71d923fe274607e34d26d54da57c56e754be8bf7c883bf551b387f23c4f87d6bf2cdf4bbaf0f88f2016b4e3bb7e'}
+2020-11-30 09:23:54,878 DEBUG decos_logging.py Обращение к функции : config_load с аргументами () {}.Функция config_load была вызвана : 30-11-2020 09:23 из функции main
+2020-11-30 09:23:54,879 INFO server.py Аргументы успешно загружены
+2020-11-30 09:23:54,880 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами ('7777', '') {}.Функция arg_parser была вызвана : 30-11-2020 09:23 из функции main
+2020-11-30 09:23:54,911 INFO core.py Сервер запущен.Адрес и порт :  7777,  Если адрес не указан, принимаются соединения с любых адресов.
+2020-11-30 09:24:40,164 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 30-11-2020 09:24 из функции <module>
+2020-11-30 09:24:43,143 DEBUG decos_logging.py Обращение к функции : arg_parser с аргументами () {}.Функция arg_parser была вызвана : 30-11-2020 09:24 из функции <module>
+2020-11-30 09:24:55,130 INFO core.py Установлено соедение  ('127.0.0.1', 57880)
+2020-11-30 09:24:58,132 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606717495.140024, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EYtI1wVdGqTe+SjLGV7\nHwUB1hwxqlO4DB068NnijVX3jcSxGKgrwpzSt6+WP3HRHBaCA+A5WCrl4lmVDO21\nXuB6JsUzGSd9e+Y9KYZ6f++nf0B3mBa0z75dWqATBhOL3F16rnHbi39I5G/WeRK/\nztYgj1US6Ju7gcg23dzl0/PGmPzD+/rkC7hS15SfCGkOSzDw5P/QXUtKP/gigs4E\nZuCUeij7k+1SHqsoE3l/UcH0l48Mku7FZ8JhItlm3xrMC0rNWeh4OIxuiEMq6Htl\nflgNQMqpMF2Qvf21qaEMnyGvCnu1RpH4VDSJLZjnCMOWgJUdwEJW5vvRi4HGz5mp\nNwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57880)>
+2020-11-30 09:24:58,132 DEBUG core.py Принято и обработано presence сообщение
+2020-11-30 09:24:58,132 DEBUG core.py Start auth process for {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EYtI1wVdGqTe+SjLGV7\nHwUB1hwxqlO4DB068NnijVX3jcSxGKgrwpzSt6+WP3HRHBaCA+A5WCrl4lmVDO21\nXuB6JsUzGSd9e+Y9KYZ6f++nf0B3mBa0z75dWqATBhOL3F16rnHbi39I5G/WeRK/\nztYgj1US6Ju7gcg23dzl0/PGmPzD+/rkC7hS15SfCGkOSzDw5P/QXUtKP/gigs4E\nZuCUeij7k+1SHqsoE3l/UcH0l48Mku7FZ8JhItlm3xrMC0rNWeh4OIxuiEMq6Htl\nflgNQMqpMF2Qvf21qaEMnyGvCnu1RpH4VDSJLZjnCMOWgJUdwEJW5vvRi4HGz5mp\nNwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-30 09:24:58,136 DEBUG core.py Correct username, starting password check.
+2020-11-30 09:24:58,138 DEBUG core.py Auth message = {'response': 511, 'bin': '1ac28bbdb95d8228c0a265e532da90282fb75a65e77158410a5d6362e809e0cf5eea6c14d0cdd8f30006e796bae5c0d43c2a7fa758bc858d0764d516e27a932e'}
+2020-11-30 09:24:58,140 DEBUG core.py Ответ клиента корректный - клиент сохранен в список пользователей
+2020-11-30 09:25:01,157 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606717498.140898, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57880)>
+2020-11-30 09:25:04,160 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606717501.170628, 'user': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57880)>
+2020-11-30 09:25:08,788 INFO core.py Установлено соедение  ('127.0.0.1', 57951)
+2020-11-30 09:25:11,788 DEBUG core.py Сообщение : {'action': 'presence', 'time': 1606717508.797919, 'user': {'account_name': 'sergey', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxqhGG/PYJYSHoqHlvBo0\nlt4vwVG5Nw79tgnLgWIjmLh8XBAK9Be8gtM84UZDmtLXulx1lGXbSlRgDNIKkKgy\nW6fDiI5P/v/lcJjJ7KvdJxzbFRZQSdnBmH24KluqNDe0MNzyBZdO/j6S8q5/x1ok\n3I1tW+q+GdqCLWtbQLgWxI1BfXFIDjZP9GS2RG4FLzuujjijr6SN6U+EUagaN+zE\nGXXkDIC+iQNHdbHiYNT62vAnam6NXUtDLYZZo9XI2yXH7ZSpf6f5nTF9m5eN5YYe\n9pAe27b3rSvABOIz8coBq8yWfvRTfLClkCB2qAmyigkr11josUZxE0Oe4gXnfP0t\nrwIDAQAB\n-----END PUBLIC KEY-----'}} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57951)>
+2020-11-30 09:25:11,789 DEBUG core.py Принято и обработано presence сообщение
+2020-11-30 09:25:11,789 DEBUG core.py Start auth process for {'account_name': 'sergey', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxqhGG/PYJYSHoqHlvBo0\nlt4vwVG5Nw79tgnLgWIjmLh8XBAK9Be8gtM84UZDmtLXulx1lGXbSlRgDNIKkKgy\nW6fDiI5P/v/lcJjJ7KvdJxzbFRZQSdnBmH24KluqNDe0MNzyBZdO/j6S8q5/x1ok\n3I1tW+q+GdqCLWtbQLgWxI1BfXFIDjZP9GS2RG4FLzuujjijr6SN6U+EUagaN+zE\nGXXkDIC+iQNHdbHiYNT62vAnam6NXUtDLYZZo9XI2yXH7ZSpf6f5nTF9m5eN5YYe\n9pAe27b3rSvABOIz8coBq8yWfvRTfLClkCB2qAmyigkr11josUZxE0Oe4gXnfP0t\nrwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-11-30 09:25:11,791 DEBUG core.py Correct username, starting password check.
+2020-11-30 09:25:11,793 DEBUG core.py Auth message = {'response': 511, 'bin': '8612cb024899611c3ee7d2fbfabae44b20dce4969ea3bce52722c8baf89d8d58b967d76aaaa9661d1b13a09ee2ce2439d15db2666ab8ffb9ca12be495d1d3b85'}
+2020-11-30 09:25:11,794 DEBUG core.py Ответ клиента корректный - клиент сохранен в список пользователей
+2020-11-30 09:25:14,809 DEBUG core.py Сообщение : {'action': 'get_users', 'time': 1606717511.795439, 'account_name': 'sergey'} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57951)>
+2020-11-30 09:25:17,814 DEBUG core.py Сообщение : {'action': 'get_contacts', 'time': 1606717514.823364, 'user': 'sergey'} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57951)>
+2020-11-30 09:25:26,834 DEBUG core.py Сообщение : {'action': 'add', 'time': 1606717524.771348, 'user': 'sergey', 'account_name': 'vlad'} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57951)>
+2020-11-30 09:25:35,852 DEBUG core.py Сообщение : {'action': 'add', 'time': 1606717534.14519, 'user': 'vlad', 'account_name': 'sergey'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57880)>
+2020-11-30 09:25:38,869 DEBUG core.py Сообщение : {'action': 'pubkey_need', 'time': 1606717538.7605278, 'account_name': 'sergey'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57880)>
+2020-11-30 09:25:47,877 DEBUG core.py Сообщение : {'action': 'message', 'from': 'vlad', 'to': 'sergey', 'time': 1606717545.625504, 'message_text': 'oifPM8S9Lf+PEndol1s4lPPEpliKilSrpTpa7axiAVqe/gClf41BmSiXSr4tSaA008GQZRDtHVX22aEOssjPFEN3KY6yS4PDHJOg1TFhhzyv75GCt8Z7QZpO4mLXYtWlhSr1jdMFm9FL2fN3H56oS9VT1Hi7JQZDRpLbpNHOlU2tTNmcnfhZ73eASJdOjk6yVZmFZEYOXT6EuBDuLfXU0lnkXKMHz7gF3pq9SoxpZhR6xGgiahAv6VKLQIGyHKHx6y52Bfyh3MHz/kCMpjDmsieCRr4sbAaEHEDSkjfpLkk/ZK4I0dIO7w6Gli7qiKq10GOQhcHXkz+8RBZVnu035Q=='} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57880)>
+2020-11-30 09:25:47,877 DEBUG core.py Принято сообщение --- > проверка пользователя -- > отправка получателю
+2020-11-30 09:25:47,891 INFO core.py Отправлено сообщение пользователю sergey от пользователя vlad.
+2020-11-30 09:25:50,894 DEBUG core.py Сообщение : {'action': 'pubkey_need', 'time': 1606717550.076641, 'account_name': 'vlad'} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57951)>
+2020-11-30 09:26:05,904 DEBUG core.py Сообщение : {'action': 'message', 'from': 'sergey', 'to': 'vlad', 'time': 1606717563.521079, 'message_text': 'a5JmkHnBzWtNKoRvbW36qIgGGeyHDE5Xk6RyQb6LkIBaCrM6aPx7m8SADEpMf6xm+n7vTUg1D93foIJWvzsXhOYYL4dJodOzPsUGtSdUmm0hfV6E23SOh/55zfsIi9pPeI7BFC+VvV5Y26CUCm2NHDuWQ0g447eU08oXveWEcV3UOTTIqUbkVG9M4qz6+RFsxLkHw47Qnua6vMmO6YqObJjSuYHoy9E0dkVwlYoInm8CV/8j+Hy8lNxyxujRtvxyEqVgD/d3kRYNRh3iZ5BaqMZZ2RVGakwGBivdY3PbVkaxOa0n4IwsvlHP1EiOdjvNeZ+/oawIw+RxtgpSOLe76A=='} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57951)>
+2020-11-30 09:26:05,905 DEBUG core.py Принято сообщение --- > проверка пользователя -- > отправка получателю
+2020-11-30 09:26:05,916 INFO core.py Отправлено сообщение пользователю vlad от пользователя sergey.
+2020-11-30 09:26:21,215 DEBUG core.py Сообщение : {'action': 'message', 'from': 'sergey', 'to': 'vlad', 'time': 1606717578.6434062, 'message_text': 'JBEqnzZsCfoRWPFHSAknlFvEbR5xoehM0ipIwH+ht+s2e14vCpwjNJC2utCVYqWMYWNLU2+WyQS6eMJnI7V3GWdyEcyj/IrVesyCm8bWdeKS7e2OMbTDIH46m7ePmX832fIESB21Gzvuq+eqXkKOZ1zdlUjxokAhL/47Qn8TMOdztCw9/YHrbRJZgKOKk/5B6IK9ttxQQ602S6oR82lj2rGJynrcBmFSeknjRz7ydWqu/uN01iEtPbVcFJ6W6BPvj+F1dsD8CUp+TFoZ4B4zwYm0XIWQba2e4c+aw3lPdmVDhAyNjYrkA5FOlqmx2bwLUA/2NSGtHXqJ4xMA0WkH6Q=='} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57951)>
+2020-11-30 09:26:21,215 DEBUG core.py Принято сообщение --- > проверка пользователя -- > отправка получателю
+2020-11-30 09:26:21,226 INFO core.py Отправлено сообщение пользователю vlad от пользователя sergey.
+2020-11-30 09:26:38,309 DEBUG core.py Сообщение : {'action': 'message', 'from': 'vlad', 'to': 'sergey', 'time': 1606717596.97807, 'message_text': 'Bpm5EQNt/8O5hoLA3FO8wShiSFPMk7sUbLoPgc7YcuJAojyfOm3/qhg3E4KfgkKfzlYfgPL4Q1OLtdLmXsT6QkRdNlvkZ6AwTmy1BQYVtBvP6Mzc+wwPpGNzJGb7vRd0ZOx7RBP2zKaMS5Tz2owSTCSEc2IgyiLcEsQbUnmjnc/b8B2PS01YeDQwpv4wqnqqbtjdSS0r0evGqwiUN9J2E5gHxTHQWLf+l3L4hhCtazMca4Pe6D22eJJOHxR+IMLGK61nIa46A/RsqkPyG2OHF9FEkG6KDxsxwMHuvYwGxW1eo3I8hC6FCrDMFN9ypAfS+sNLOG9FE0i68WMVf0yQ9w=='} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57880)>
+2020-11-30 09:26:38,309 DEBUG core.py Принято сообщение --- > проверка пользователя -- > отправка получателю
+2020-11-30 09:26:38,333 INFO core.py Отправлено сообщение пользователю sergey от пользователя vlad.
+2020-11-30 09:26:52,888 DEBUG core.py Сообщение : {'action': 'exit', 'time': 1606717609.893558, 'account_name': 'vlad'} клиента <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57880)>
+2020-11-30 09:26:52,889 INFO core.py Клиент ('127.0.0.1', 57880) отключился от сервера.
+2020-11-30 09:26:52,896 DEBUG core.py Сообщение : {'action': 'exit', 'time': 1606717610.990593, 'account_name': 'sergey'} клиента <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57951)>
+2020-11-30 09:26:52,896 INFO core.py Клиент ('127.0.0.1', 57951) отключился от сервера.

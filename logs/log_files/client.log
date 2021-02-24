@@ -1,0 +1,678 @@
+2020-11-27 19:57:43,376 DEBUG client.py Load arguments
+2020-11-27 19:57:46,107 DEBUG client.py Load arguments
+2020-11-27 19:57:49,143 DEBUG client.py Load arguments
+2020-11-27 20:04:01,341 DEBUG client.py Load arguments
+2020-11-27 20:04:04,465 DEBUG client.py Load arguments
+2020-11-27 20:04:07,300 DEBUG client.py Load arguments
+2020-11-27 20:04:20,097 DEBUG client.py Using USERNAME = test1, PASSWD = 12345.
+2020-11-27 20:04:20,097 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: test1
+2020-11-27 20:04:20,919 DEBUG client.py Keys sucsessfully loaded.
+2020-11-27 20:04:20,971 INFO transport.py Попытка подключения №1
+2020-11-27 20:04:20,971 DEBUG transport.py Connection established
+2020-11-27 20:04:20,971 DEBUG transport.py Установлено соединение с сервером
+2020-11-27 20:04:20,984 DEBUG transport.py Passwd hash ready: b'c0c71ab800fb96d0f52863d5771401700d92a794aae1c10323399f1a18f72fb493a00e23d4b499de32cc69bf33416010d19273f20eed06a2796b8422833a931b'
+2020-11-27 20:04:20,986 DEBUG transport.py Presense message = {'action': 'presense', 'time': 1606496660.9849432, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-27 20:04:21,979 DEBUG transport.py Server response = {'response': 400, 'error': 'Bad Request'}.
+2020-11-27 20:04:21,979 DEBUG transport.py Connection error.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/client/transport.py", line 105, in connection_init
+    raise ConnectionError
+ConnectionError
+2020-11-27 20:16:56,720 DEBUG client.py Load arguments
+2020-11-27 20:16:59,361 DEBUG client.py Load arguments
+2020-11-27 20:17:02,377 DEBUG client.py Load arguments
+2020-11-27 20:17:18,603 DEBUG client.py Using USERNAME = test1, PASSWD = 12345.
+2020-11-27 20:17:18,604 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: test1
+2020-11-27 20:17:18,713 DEBUG client.py Keys sucsessfully loaded.
+2020-11-27 20:17:18,762 INFO transport.py Попытка подключения №1
+2020-11-27 20:17:18,762 DEBUG transport.py Connection established
+2020-11-27 20:17:18,762 DEBUG transport.py Установлено соединение с сервером
+2020-11-27 20:17:18,772 DEBUG transport.py Passwd hash ready: b'c0c71ab800fb96d0f52863d5771401700d92a794aae1c10323399f1a18f72fb493a00e23d4b499de32cc69bf33416010d19273f20eed06a2796b8422833a931b'
+2020-11-27 20:17:18,773 DEBUG transport.py Presense message = {'action': 'presense', 'time': 1606497438.773794, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-27 20:17:19,764 DEBUG transport.py Server response = {'response': 400, 'error': 'Bad Request'}.
+2020-11-27 20:17:19,764 DEBUG transport.py Connection error.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/client/transport.py", line 105, in connection_init
+    raise ConnectionError
+ConnectionError
+2020-11-27 20:29:51,294 DEBUG client.py Load arguments
+2020-11-27 20:29:54,291 DEBUG client.py Load arguments
+2020-11-27 20:29:57,183 DEBUG client.py Load arguments
+2020-11-27 20:30:09,673 DEBUG client.py Using USERNAME = test1, PASSWD = 12345.
+2020-11-27 20:30:09,673 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: test1
+2020-11-27 20:30:09,781 DEBUG client.py Keys sucsessfully loaded.
+2020-11-27 20:30:09,836 INFO transport.py Попытка подключения №1
+2020-11-27 20:30:09,836 DEBUG transport.py Connection established
+2020-11-27 20:30:09,837 DEBUG transport.py Установлено соединение с сервером
+2020-11-27 20:30:09,847 DEBUG transport.py Passwd hash ready: b'c0c71ab800fb96d0f52863d5771401700d92a794aae1c10323399f1a18f72fb493a00e23d4b499de32cc69bf33416010d19273f20eed06a2796b8422833a931b'
+2020-11-27 20:30:09,848 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606498209.8484101, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-27 20:30:14,849 DEBUG transport.py Connection error.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/client/transport.py", line 100, in connection_init
+    answer = get_message(self.client_sock)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 9, in get_message
+    encoded_response = client.recv(1024)
+socket.timeout: timed out
+2020-11-27 20:53:09,817 DEBUG client.py Load arguments
+2020-11-27 20:53:13,154 DEBUG client.py Load arguments
+2020-11-27 20:53:15,631 DEBUG client.py Load arguments
+2020-11-27 20:53:23,628 DEBUG client.py Using USERNAME = test1, PASSWD = 12345.
+2020-11-27 20:53:23,628 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: test1
+2020-11-27 20:53:23,737 DEBUG client.py Keys sucsessfully loaded.
+2020-11-27 20:53:23,789 INFO transport.py Попытка подключения №1
+2020-11-27 20:53:23,790 DEBUG transport.py Connection established
+2020-11-27 20:53:23,790 DEBUG transport.py Установлено соединение с сервером
+2020-11-27 20:53:23,800 DEBUG transport.py Password hash ready: b'c0c71ab800fb96d0f52863d5771401700d92a794aae1c10323399f1a18f72fb493a00e23d4b499de32cc69bf33416010d19273f20eed06a2796b8422833a931b'
+2020-11-27 20:53:23,800 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e
+vmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV
+tZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW
+xDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7
+Pza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0
+MI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G
+3QIDAQAB
+-----END PUBLIC KEY-----
+2020-11-27 20:53:23,800 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606499603.800839, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-27 20:53:33,802 DEBUG transport.py Connection error.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/client/transport.py", line 102, in connection_init
+    answer = get_message(self.client_sock)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 9, in get_message
+    encoded_response = client.recv(1024)
+socket.timeout: timed out
+2020-11-28 14:13:07,717 DEBUG client.py Load arguments
+2020-11-28 14:13:10,226 DEBUG client.py Load arguments
+2020-11-28 14:13:13,202 DEBUG client.py Load arguments
+2020-11-28 14:13:29,061 DEBUG client.py Using USERNAME = test1, PASSWD = 12345.
+2020-11-28 14:13:29,062 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: test1
+2020-11-28 14:13:29,186 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 14:13:29,236 INFO transport.py Попытка подключения №1
+2020-11-28 14:13:29,237 DEBUG transport.py Connection established
+2020-11-28 14:13:29,237 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 14:13:29,249 DEBUG transport.py Password hash ready: b'c0c71ab800fb96d0f52863d5771401700d92a794aae1c10323399f1a18f72fb493a00e23d4b499de32cc69bf33416010d19273f20eed06a2796b8422833a931b'
+2020-11-28 14:13:29,249 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e
+vmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV
+tZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW
+xDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7
+Pza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0
+MI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G
+3QIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 14:13:29,251 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606562009.249855, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAXOyieCU1Yo3Ky+fc3e\nvmGxz3fKVybben/KEgN/KEEn313kYhLMDYdIFinOYXdI0eciHAe4+JF83dDn60YV\ntZdTCTXB7QEi9ErsEdeATdY7Zwhuit8E12jpsniG30WTuvoz2L/82TfS++IPExGW\nxDNjPdpgbzCQ8ieJKhmmMag4+nQS27kRoHPnCJQmSoQJ1togZJnS+6GDMPooWqH7\nPza6BMQ04BCS/5cCljFYRgzquEawCuNmvk4Pg/uWElL3V8w9P1AZJ1Gu+oXoN4K0\nMI929bTCABrZyF6j1uWRq65YXEYsFvqjPqeav6LK2y9728DeaR8DxGm73P1EF41G\n3QIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 14:13:39,253 DEBUG transport.py Connection error.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/client/transport.py", line 104, in connection_init
+    answer = get_message(self.client_sock)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 9, in get_message
+    encoded_response = client.recv(1024)
+socket.timeout: timed out
+2020-11-28 14:37:47,409 DEBUG client.py Load arguments
+2020-11-28 14:37:50,147 DEBUG client.py Load arguments
+2020-11-28 14:37:53,165 DEBUG client.py Load arguments
+2020-11-28 14:38:04,491 DEBUG client.py Using USERNAME = user1, PASSWD = 12345.
+2020-11-28 14:38:04,492 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: user1
+2020-11-28 14:38:04,881 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 14:38:04,937 INFO transport.py Попытка подключения №1
+2020-11-28 14:38:04,938 DEBUG transport.py Connection established
+2020-11-28 14:38:04,938 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 14:38:04,947 DEBUG transport.py Password hash ready: b'f9608b507153ab83931e4def2209f290f0fa2349c6bb38706685ec2d3d99cd9ae177e46531361bdda475c149f10e207b63dd53c8ee99ba3d700361bccfa31e6d'
+2020-11-28 14:38:04,947 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3q+vN/pB0LDLBaNrVbRV
+J6QQWIOF+SXxcYg1rhCMfe1rjBNT5/6/D8soKP2HQWJmlcmGfnQ1feEZ0YnXxKsk
+X4ZLr+PyNRzntYfF3218zoeZ6obu3kXPLQNa3RHg0+xemCam0PDlhHnxKPQXdREW
+1bY/ZoCaTCsL+J1DTPiUm02RbiWOM+S9rdI5TvpOZnTzeFGKlDDSmxzbalEpIU+1
+RB/30XYSM85JqKdkQIhFaOdpUSjczTIVGlWlqh3vHVaJuJ+GCqlGV1qmZwHmxdUf
+8QCPCJXdanTJ3ZDE1VpLjzU/JoA4oyRDC2IK2/eFO0QG7cmhacT3rkMPowzQ8oXX
++QIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 14:38:04,948 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606563484.9480162, 'user': {'account_name': 'user1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3q+vN/pB0LDLBaNrVbRV\nJ6QQWIOF+SXxcYg1rhCMfe1rjBNT5/6/D8soKP2HQWJmlcmGfnQ1feEZ0YnXxKsk\nX4ZLr+PyNRzntYfF3218zoeZ6obu3kXPLQNa3RHg0+xemCam0PDlhHnxKPQXdREW\n1bY/ZoCaTCsL+J1DTPiUm02RbiWOM+S9rdI5TvpOZnTzeFGKlDDSmxzbalEpIU+1\nRB/30XYSM85JqKdkQIhFaOdpUSjczTIVGlWlqh3vHVaJuJ+GCqlGV1qmZwHmxdUf\n8QCPCJXdanTJ3ZDE1VpLjzU/JoA4oyRDC2IK2/eFO0QG7cmhacT3rkMPowzQ8oXX\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 14:38:14,949 DEBUG transport.py Connection error.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/client/transport.py", line 104, in connection_init
+    answer = get_message(self.client_sock)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 9, in get_message
+    encoded_response = client.recv(1024)
+socket.timeout: timed out
+2020-11-28 15:27:21,857 DEBUG client.py Load arguments
+2020-11-28 15:27:24,824 DEBUG client.py Load arguments
+2020-11-28 15:27:27,668 DEBUG client.py Load arguments
+2020-11-28 15:27:42,084 DEBUG client.py Using USERNAME = ivan, PASSWD = 12345.
+2020-11-28 15:27:42,084 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: ivan
+2020-11-28 15:27:42,906 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 15:27:42,959 INFO transport.py Попытка подключения №1
+2020-11-28 15:27:42,959 DEBUG transport.py Connection established
+2020-11-28 15:27:42,959 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 15:27:42,969 DEBUG transport.py Password hash ready: b'64c49af1dc1eb731347907afb1f59fa755a40cbd2a4107ce27c3937c7ba3d58525c4e2b5f90ecf43a7acbbacb8c773a76c4fc7f68c3d22fbbc39adaf1cbfece8'
+2020-11-28 15:27:42,969 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwelQ6HVL6KEpjsRPs+Ef
+pULT7KqZ8Ny1j0ToSDchZCYC1jFXBCbFbpnA9CG6put16gZqVw8koV1pSx3YPSvX
+rAAmboDo7iJpqjGfP/Th7c7Xq2lonxmTpFhDKOAmXnTFHlFnFiT42Zvty9qLGRiU
+0/D+W5EKI7WAEIWfIj7zxHTRgmpf1O31BrUzmioGbEppvrfqJzyVFBfQzTp+su3s
+BHdwCyHm5AaVDTL+/nvtpRTriC3eFnKnR4AaGg97V49VlbZP70cq+tZxXMhsEaGk
+VOgNq5x8vljC2/H42XpR1OrD2dA0ierqLjvY4ZsedVlASrPyTpMwxzdkSPNfisw6
+iwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 15:27:42,969 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606566462.969771, 'user': {'account_name': 'ivan', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwelQ6HVL6KEpjsRPs+Ef\npULT7KqZ8Ny1j0ToSDchZCYC1jFXBCbFbpnA9CG6put16gZqVw8koV1pSx3YPSvX\nrAAmboDo7iJpqjGfP/Th7c7Xq2lonxmTpFhDKOAmXnTFHlFnFiT42Zvty9qLGRiU\n0/D+W5EKI7WAEIWfIj7zxHTRgmpf1O31BrUzmioGbEppvrfqJzyVFBfQzTp+su3s\nBHdwCyHm5AaVDTL+/nvtpRTriC3eFnKnR4AaGg97V49VlbZP70cq+tZxXMhsEaGk\nVOgNq5x8vljC2/H42XpR1OrD2dA0ierqLjvY4ZsedVlASrPyTpMwxzdkSPNfisw6\niwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 15:27:52,971 DEBUG transport.py Connection error.
+Traceback (most recent call last):
+  File "/Users/vladislavvovk/Documents/Учеба/chat/client/transport.py", line 104, in connection_init
+    answer = get_message(self.client_sock)
+  File "/Users/vladislavvovk/Documents/Учеба/chat/common/utils.py", line 9, in get_message
+    encoded_response = client.recv(1024)
+socket.timeout: timed out
+2020-11-28 16:05:20,450 DEBUG client.py Load arguments
+2020-11-28 16:05:23,377 DEBUG client.py Load arguments
+2020-11-28 16:05:26,623 DEBUG client.py Load arguments
+2020-11-28 16:05:53,566 DEBUG client.py Using USERNAME = petr, PASSWD = 12345.
+2020-11-28 16:05:53,566 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: petr
+2020-11-28 16:05:54,463 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 16:05:54,521 INFO transport.py Попытка подключения №1
+2020-11-28 16:05:54,521 DEBUG transport.py Connection established
+2020-11-28 16:05:54,521 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 16:05:54,531 DEBUG transport.py Password hash ready: b'bb198f41e67a3426a2239e0b8857a4f41ecc5a29cbc926313b99fee91c497006bdcd681af0c902b42e4d34c7595273cc4e7cc1536c53ba0da6176cddd46fd045'
+2020-11-28 16:05:54,531 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp74s1JW8/KxI6TOubRDF
+56FkW07R1k4KZs/FeGE+XPXvlyYZ30vZwd7Phr9lOkDD8IGq67x5zV+5TPQ7rAth
+saou6TQs3hxhzXhi8up+qUf46e6WareY0Z17zF/9BpESIAEtCjUmnmKTBDTES08C
+N34l1FktOYgRqahrkOQazP0XcYFBtRaDI0/2+tbLzFfZri2sHwCeWl+xosS1cIyo
+RWj90xDq1vySwEv+FufmGSfNW74XLze/dPToPF1wxo1aAFw/UJyUj+csRR+4GwX0
+ewgQSti2sa2ktwBW2mcEqHlvIlFMCe6RjzR0TEg6yHD6H/F/7xF44Qo8piifzGzZ
+rwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 16:05:54,532 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606568754.531988, 'user': {'account_name': 'petr', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp74s1JW8/KxI6TOubRDF\n56FkW07R1k4KZs/FeGE+XPXvlyYZ30vZwd7Phr9lOkDD8IGq67x5zV+5TPQ7rAth\nsaou6TQs3hxhzXhi8up+qUf46e6WareY0Z17zF/9BpESIAEtCjUmnmKTBDTES08C\nN34l1FktOYgRqahrkOQazP0XcYFBtRaDI0/2+tbLzFfZri2sHwCeWl+xosS1cIyo\nRWj90xDq1vySwEv+FufmGSfNW74XLze/dPToPF1wxo1aAFw/UJyUj+csRR+4GwX0\newgQSti2sa2ktwBW2mcEqHlvIlFMCe6RjzR0TEg6yHD6H/F/7xF44Qo8piifzGzZ\nrwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 16:05:57,531 DEBUG transport.py Server response = {'response': 400, 'error': 'Пользователь не зарегистрирован.'}.
+2020-11-28 16:05:57,531 CRITICAL transport.py 400 ответ сервера - ошибка : Пользователь не зарегистрирован.
+2020-11-28 16:05:57,531 DEBUG transport.py Запрос списка пользователей petr
+2020-11-28 16:05:57,533 CRITICAL transport.py Потеряно соединение с сервером.
+2020-11-28 16:41:26,802 DEBUG client.py Load arguments
+2020-11-28 16:41:29,386 DEBUG client.py Load arguments
+2020-11-28 16:41:32,158 DEBUG client.py Load arguments
+2020-11-28 16:41:47,832 DEBUG client.py Using USERNAME = ivan2, PASSWD = 12345.
+2020-11-28 16:41:47,833 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: ivan2
+2020-11-28 16:41:48,887 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 16:41:48,942 INFO transport.py Попытка подключения №1
+2020-11-28 16:41:48,943 DEBUG transport.py Connection established
+2020-11-28 16:41:48,943 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 16:41:48,952 DEBUG transport.py Password hash ready: b'fb2346841b432bfeee0832ca9dcf4c05f7a7ff91e7442a91b859c08ac61f99c7f3628b00f88d2c3112f23c8581ea52eeda1ebe7b6b2c9b33ca4386cad48fc18c'
+2020-11-28 16:41:48,953 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmnsmxdMH40oJZcMeHfgQ
+PMYVoRPKSymxa2gZEoTczEGH22ny+TQZVtx1SGZGgqmKkVYveG9/h/SIq4JVqbIj
+ILbOISmGy9uIrpi/tFVowNbRvJBGsmXCsJoU5MU6v0ra4tyu3BEdYDwsBdBPxHhB
+bote9V5KJhD3hyg+U9fOQxCNlm1hSVe4z97A2qSOBLz+qHvhspt6V7C4Gk596QZn
++/sQuTnGVyaFukRsdJl5dcCCuVW+6nZ8QNe8DtHvcMQesxvg8Ixb04Dk8IaaOHMI
+22KZq1dfSm2RxfHH2kqKAeibNJjTlSp7CwWXbrDD76wtwZ0+0gxRVML9sTw6Ivjj
+DQIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 16:41:48,954 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606570908.9532318, 'user': {'account_name': 'ivan2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmnsmxdMH40oJZcMeHfgQ\nPMYVoRPKSymxa2gZEoTczEGH22ny+TQZVtx1SGZGgqmKkVYveG9/h/SIq4JVqbIj\nILbOISmGy9uIrpi/tFVowNbRvJBGsmXCsJoU5MU6v0ra4tyu3BEdYDwsBdBPxHhB\nbote9V5KJhD3hyg+U9fOQxCNlm1hSVe4z97A2qSOBLz+qHvhspt6V7C4Gk596QZn\n+/sQuTnGVyaFukRsdJl5dcCCuVW+6nZ8QNe8DtHvcMQesxvg8Ixb04Dk8IaaOHMI\n22KZq1dfSm2RxfHH2kqKAeibNJjTlSp7CwWXbrDD76wtwZ0+0gxRVML9sTw6Ivjj\nDQIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 16:41:51,953 DEBUG transport.py Server response = {'response': 400, 'error': 'Пользователь не зарегистрирован.'}.
+2020-11-28 16:41:51,953 CRITICAL transport.py 400 ответ сервера - ошибка : Пользователь не зарегистрирован.
+2020-11-28 16:41:51,953 DEBUG transport.py Запрос списка пользователей ivan2
+2020-11-28 16:41:51,954 CRITICAL transport.py Потеряно соединение с сервером.
+2020-11-28 22:08:38,023 DEBUG client.py Load arguments
+2020-11-28 22:08:40,533 DEBUG client.py Load arguments
+2020-11-28 22:08:43,377 DEBUG client.py Load arguments
+2020-11-28 22:08:53,279 DEBUG client.py Using USERNAME = vlad, PASSWD = 12345.
+2020-11-28 22:08:53,279 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vlad
+2020-11-28 22:08:54,013 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 22:08:54,072 INFO transport.py Попытка подключения №1
+2020-11-28 22:08:54,073 DEBUG transport.py Connection established
+2020-11-28 22:08:54,073 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 22:08:54,083 DEBUG transport.py Password hash ready: b'dddaf2b37268fdc823d58d03cd0fbeafb1de458aa739ef0c3f26b54768e451e0539cc982ebc31745697efd377ea5fd4f2d3686c8adf838e1b0db49f7db455e59'
+2020-11-28 22:08:54,084 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9
+4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1
+nS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx
+ros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu
+W/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1
+DLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp
+kwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 22:08:54,084 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606590534.084308, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 22:08:57,083 DEBUG transport.py Server response = {'response': 511, 'bin': '8cef7e1cad55b31fdbf77fc3ffc1423188498ed7a1871051c8ee7b66a00a78f2fa40ecbbcc669de7198ea23cfb3f61305713b7f0ca5262e3762472fc4b05287d'}.
+2020-11-28 22:08:57,085 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 22:08:57,086 DEBUG transport.py Запрос списка пользователей vlad
+2020-11-28 22:09:00,109 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-28 22:09:00,110 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606590540.1101289, 'user': 'vlad'}
+2020-11-28 22:09:03,106 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2020-11-28 22:09:03,106 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-28 22:38:41,111 DEBUG client.py Load arguments
+2020-11-28 22:38:44,044 DEBUG client.py Load arguments
+2020-11-28 22:38:47,067 DEBUG client.py Load arguments
+2020-11-28 22:38:57,819 DEBUG client.py Using USERNAME = vlad, PASSWD = 12345.
+2020-11-28 22:38:57,819 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vlad
+2020-11-28 22:38:57,978 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 22:38:58,512 INFO transport.py Попытка подключения №1
+2020-11-28 22:38:58,513 DEBUG transport.py Connection established
+2020-11-28 22:38:58,513 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 22:38:58,521 DEBUG transport.py Password hash ready: b'dddaf2b37268fdc823d58d03cd0fbeafb1de458aa739ef0c3f26b54768e451e0539cc982ebc31745697efd377ea5fd4f2d3686c8adf838e1b0db49f7db455e59'
+2020-11-28 22:38:58,522 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9
+4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1
+nS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx
+ros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu
+W/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1
+DLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp
+kwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 22:38:58,522 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606592338.52255, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 22:39:01,524 DEBUG transport.py Server response = {'response': 511, 'bin': '6cf7903a1d5f137bbe9f76426dc8953ab0d1717f0d35ac4b527ef826d5384917518bf1301bcbf5d718a6bebe080d18f42e28dc7fb8bdfad35109ce688e037430'}.
+2020-11-28 22:39:01,525 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 22:39:01,525 DEBUG transport.py Запрос списка пользователей vlad
+2020-11-28 22:39:04,720 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-28 22:39:04,720 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606592344.720588, 'user': 'vlad'}
+2020-11-28 22:39:07,556 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2020-11-28 22:39:07,557 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-28 22:39:55,975 DEBUG client.py Load arguments
+2020-11-28 22:39:58,776 DEBUG client.py Load arguments
+2020-11-28 22:40:02,096 DEBUG client.py Load arguments
+2020-11-28 22:40:11,883 DEBUG client.py Using USERNAME = vlad, PASSWD = 12345.
+2020-11-28 22:40:11,883 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vlad
+2020-11-28 22:40:11,997 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 22:40:12,087 INFO transport.py Попытка подключения №1
+2020-11-28 22:40:12,088 DEBUG transport.py Connection established
+2020-11-28 22:40:12,088 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 22:40:12,103 DEBUG transport.py Password hash ready: b'dddaf2b37268fdc823d58d03cd0fbeafb1de458aa739ef0c3f26b54768e451e0539cc982ebc31745697efd377ea5fd4f2d3686c8adf838e1b0db49f7db455e59'
+2020-11-28 22:40:12,103 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9
+4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1
+nS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx
+ros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu
+W/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1
+DLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp
+kwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 22:40:12,103 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606592412.103849, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 22:40:15,101 DEBUG transport.py Server response = {'response': 511, 'bin': '6d728d2385554e2ce6deeba1d0808fb29fb9709af87680f6665c45c28a20383aa85be5e498512a6f1d839f831ce0521aaa5f5984755875547839ea39456a0073'}.
+2020-11-28 22:40:15,102 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 22:40:15,102 DEBUG transport.py Запрос списка пользователей vlad
+2020-11-28 22:40:18,125 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-28 22:40:18,125 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606592418.1252558, 'user': 'vlad'}
+2020-11-28 22:40:21,124 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2020-11-28 22:40:21,125 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-28 22:56:15,279 DEBUG client.py Load arguments
+2020-11-28 22:56:18,228 DEBUG client.py Load arguments
+2020-11-28 22:56:20,852 DEBUG client.py Load arguments
+2020-11-28 22:56:29,028 DEBUG client.py Using USERNAME = vlad, PASSWD = 12345.
+2020-11-28 22:56:29,028 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vlad
+2020-11-28 22:56:29,137 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 22:56:29,198 INFO transport.py Попытка подключения №1
+2020-11-28 22:56:29,198 DEBUG transport.py Connection established
+2020-11-28 22:56:29,198 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 22:56:29,207 DEBUG transport.py Password hash ready: b'dddaf2b37268fdc823d58d03cd0fbeafb1de458aa739ef0c3f26b54768e451e0539cc982ebc31745697efd377ea5fd4f2d3686c8adf838e1b0db49f7db455e59'
+2020-11-28 22:56:29,208 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9
+4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1
+nS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx
+ros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu
+W/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1
+DLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp
+kwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 22:56:29,208 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606593389.2087018, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 22:56:32,214 DEBUG transport.py Server response = {'response': 511, 'bin': '49b015563013cdf3d49e500997c9505e0097e1210e883113cf3eafae36a9cbac4a73fb8bc2e0041349d7b030a7e84d6c773ae7e80a2ccbf176d398bd92056cff'}.
+2020-11-28 22:56:32,215 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 22:56:32,215 DEBUG transport.py Запрос списка пользователей vlad
+2020-11-28 22:56:35,241 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-28 22:56:35,242 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606593395.242111, 'user': 'vlad'}
+2020-11-28 22:56:38,240 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2020-11-28 22:56:38,240 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-28 22:58:04,710 DEBUG client.py Load arguments
+2020-11-28 22:58:07,388 DEBUG client.py Load arguments
+2020-11-28 22:58:16,157 DEBUG client.py Using USERNAME = vlad, PASSWD = 12345.
+2020-11-28 22:58:16,157 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vlad
+2020-11-28 22:58:16,277 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 22:58:16,331 INFO transport.py Попытка подключения №1
+2020-11-28 22:58:16,331 DEBUG transport.py Connection established
+2020-11-28 22:58:16,331 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 22:58:16,341 DEBUG transport.py Password hash ready: b'dddaf2b37268fdc823d58d03cd0fbeafb1de458aa739ef0c3f26b54768e451e0539cc982ebc31745697efd377ea5fd4f2d3686c8adf838e1b0db49f7db455e59'
+2020-11-28 22:58:16,342 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9
+4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1
+nS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx
+ros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu
+W/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1
+DLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp
+kwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 22:58:16,343 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606593496.343084, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 22:58:19,346 DEBUG transport.py Server response = {'response': 511, 'bin': '439d4cc29aa9da05065e228de38e9188450eed53f1a65659662b2a15248d13575e997feaf470deabac41e80a4eec30d1763771646ca1313cd6ed2c9c70bd7d88'}.
+2020-11-28 22:58:19,347 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 22:58:19,347 DEBUG transport.py Запрос списка пользователей vlad
+2020-11-28 22:58:22,375 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-28 22:58:22,375 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606593502.375674, 'user': 'vlad'}
+2020-11-28 22:58:25,372 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2020-11-28 22:58:25,373 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-28 23:10:36,972 DEBUG client.py Load arguments
+2020-11-28 23:10:39,871 DEBUG client.py Load arguments
+2020-11-28 23:10:46,795 DEBUG client.py Using USERNAME = vlad, PASSWD = 12345.
+2020-11-28 23:10:46,795 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vlad
+2020-11-28 23:10:46,925 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 23:10:46,985 INFO transport.py Попытка подключения №1
+2020-11-28 23:10:46,986 DEBUG transport.py Connection established
+2020-11-28 23:10:46,986 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 23:10:46,995 DEBUG transport.py Password hash ready: b'dddaf2b37268fdc823d58d03cd0fbeafb1de458aa739ef0c3f26b54768e451e0539cc982ebc31745697efd377ea5fd4f2d3686c8adf838e1b0db49f7db455e59'
+2020-11-28 23:10:46,996 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9
+4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1
+nS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx
+ros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu
+W/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1
+DLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp
+kwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 23:10:46,997 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606594246.9967349, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 23:10:50,006 DEBUG transport.py Server response = {'response': 511, 'bin': '2561a1e4a6d6e50ff0cfff1ec1ac0494586b934924d095e289ef5a107cc9f890f1ac3d2d175e5c6e98e1daaf98eb9dab7bc34ca3bf3aa2ea58fb04e0f81fe80f'}.
+2020-11-28 23:10:50,008 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 23:10:50,008 DEBUG transport.py Запрос списка пользователей vlad
+2020-11-28 23:10:53,036 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-28 23:10:53,037 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606594253.0370162, 'user': 'vlad'}
+2020-11-28 23:10:56,036 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2020-11-28 23:10:56,037 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-28 23:11:47,119 DEBUG client.py Load arguments
+2020-11-28 23:11:49,891 DEBUG client.py Load arguments
+2020-11-28 23:11:56,367 DEBUG client.py Using USERNAME = vlad, PASSWD = 12345.
+2020-11-28 23:11:56,367 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vlad
+2020-11-28 23:11:56,488 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 23:11:56,542 INFO transport.py Попытка подключения №1
+2020-11-28 23:11:56,542 DEBUG transport.py Connection established
+2020-11-28 23:11:56,542 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 23:11:56,551 DEBUG transport.py Password hash ready: b'dddaf2b37268fdc823d58d03cd0fbeafb1de458aa739ef0c3f26b54768e451e0539cc982ebc31745697efd377ea5fd4f2d3686c8adf838e1b0db49f7db455e59'
+2020-11-28 23:11:56,552 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9
+4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1
+nS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx
+ros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu
+W/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1
+DLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp
+kwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 23:11:56,552 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606594316.552659, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 23:11:59,559 DEBUG transport.py Server response = {'response': 511, 'bin': '7b7475d2a2be3d26656dce3b2b59a46bf4a80184fbdbfc18a9a003d33cb37e790c01bd22130d8846b5f45a8273482a48976022a05abda8ecb89c76fb144bb3fc'}.
+2020-11-28 23:11:59,561 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 23:11:59,561 DEBUG transport.py Запрос списка пользователей vlad
+2020-11-28 23:12:02,590 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-28 23:12:02,590 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606594322.5903842, 'user': 'vlad'}
+2020-11-28 23:12:05,584 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2020-11-28 23:12:05,585 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-28 23:13:16,576 DEBUG client.py Load arguments
+2020-11-28 23:13:19,421 DEBUG client.py Load arguments
+2020-11-28 23:13:24,249 DEBUG client.py Using USERNAME = vlad, PASSWD = 12345.
+2020-11-28 23:13:24,249 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vlad
+2020-11-28 23:13:24,364 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 23:13:24,417 INFO transport.py Попытка подключения №1
+2020-11-28 23:13:24,417 DEBUG transport.py Connection established
+2020-11-28 23:13:24,417 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 23:13:24,426 DEBUG transport.py Password hash ready: b'dddaf2b37268fdc823d58d03cd0fbeafb1de458aa739ef0c3f26b54768e451e0539cc982ebc31745697efd377ea5fd4f2d3686c8adf838e1b0db49f7db455e59'
+2020-11-28 23:13:24,427 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9
+4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1
+nS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx
+ros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu
+W/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1
+DLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp
+kwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 23:13:24,427 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606594404.4277499, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWuI2RAcZZ/aDd3TcNL9\n4ODgC0Z63JdXj2dq87TIvG2DxNHOtWTBmypc6jdbf6wJEFyNmDbYAv+aeDzbpPG1\nnS5RGanw8880EwO7Sl6Bng1cjdPH8F7DWtcJKp8zjt32C4bMq+nev0MT2cBbePrx\nros6X8zPA9XnMMKSpwLJTBVQMiOF26KpAIlWaTb9sU8ocUYa8hSedV9j57ejNPHu\nW/aGubp7yGVDVTqSdt0MaCGBXMhDVB5Y9kbU0czR92+kKhBzRmzuh8yCyx2l2Xq1\nDLxwOQRf4SCKxUoWZW86f0k9bnZ/Rx5s+AK+y92rWZm8bVLVZwiE/Vd5nuGmC9Xp\nkwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 23:13:27,428 DEBUG transport.py Server response = {'response': 511, 'bin': '451a004bf91efe0d030ee637ccefeb9a872645b859afd1732d0a60e237fd09e131388b61814a6e7f760b26f46b3cfe7e1953f7f4891bbe33c171c4e7488bbf6e'}.
+2020-11-28 23:13:27,429 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 23:13:27,429 DEBUG transport.py Запрос списка пользователей vlad
+2020-11-28 23:13:30,456 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-28 23:13:30,457 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606594410.457443, 'user': 'vlad'}
+2020-11-28 23:13:33,452 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2020-11-28 23:13:33,453 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-28 23:55:24,910 DEBUG client.py Load arguments
+2020-11-28 23:55:27,629 DEBUG client.py Load arguments
+2020-11-28 23:55:39,057 DEBUG client.py Using USERNAME = vlad, PASSWD = 12345.
+2020-11-28 23:55:39,057 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vlad
+2020-11-28 23:55:40,070 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 23:55:40,139 INFO transport.py Попытка подключения №1
+2020-11-28 23:55:40,139 DEBUG transport.py Connection established
+2020-11-28 23:55:40,139 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 23:55:40,150 DEBUG transport.py Password hash ready: b'dddaf2b37268fdc823d58d03cd0fbeafb1de458aa739ef0c3f26b54768e451e0539cc982ebc31745697efd377ea5fd4f2d3686c8adf838e1b0db49f7db455e59'
+2020-11-28 23:55:40,151 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EYtI1wVdGqTe+SjLGV7
+HwUB1hwxqlO4DB068NnijVX3jcSxGKgrwpzSt6+WP3HRHBaCA+A5WCrl4lmVDO21
+XuB6JsUzGSd9e+Y9KYZ6f++nf0B3mBa0z75dWqATBhOL3F16rnHbi39I5G/WeRK/
+ztYgj1US6Ju7gcg23dzl0/PGmPzD+/rkC7hS15SfCGkOSzDw5P/QXUtKP/gigs4E
+ZuCUeij7k+1SHqsoE3l/UcH0l48Mku7FZ8JhItlm3xrMC0rNWeh4OIxuiEMq6Htl
+flgNQMqpMF2Qvf21qaEMnyGvCnu1RpH4VDSJLZjnCMOWgJUdwEJW5vvRi4HGz5mp
+NwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 23:55:40,152 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606596940.151218, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EYtI1wVdGqTe+SjLGV7\nHwUB1hwxqlO4DB068NnijVX3jcSxGKgrwpzSt6+WP3HRHBaCA+A5WCrl4lmVDO21\nXuB6JsUzGSd9e+Y9KYZ6f++nf0B3mBa0z75dWqATBhOL3F16rnHbi39I5G/WeRK/\nztYgj1US6Ju7gcg23dzl0/PGmPzD+/rkC7hS15SfCGkOSzDw5P/QXUtKP/gigs4E\nZuCUeij7k+1SHqsoE3l/UcH0l48Mku7FZ8JhItlm3xrMC0rNWeh4OIxuiEMq6Htl\nflgNQMqpMF2Qvf21qaEMnyGvCnu1RpH4VDSJLZjnCMOWgJUdwEJW5vvRi4HGz5mp\nNwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 23:55:43,160 DEBUG transport.py Server response = {'response': 511, 'bin': '8b13a0465bcec2ec23c84c2ee1ff5dace1b494fe1e1447a14bf523f40fca689658fb7528db0b55a30a796a622f77f09131dbc28c6d8ed42fb2942b637aaa77ca'}.
+2020-11-28 23:55:43,162 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 23:55:43,163 DEBUG transport.py Запрос списка пользователей vlad
+2020-11-28 23:55:46,192 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-28 23:55:46,192 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606596946.192626, 'user': 'vlad'}
+2020-11-28 23:55:49,190 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2020-11-28 23:55:49,192 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-28 23:56:21,823 DEBUG transport.py Принято сообщение с сервера: {'response': 205}
+2020-11-28 23:56:21,824 DEBUG transport.py Разбор сообщения от сервера: {'response': 205}
+2020-11-28 23:56:21,825 DEBUG transport.py Запрос списка пользователей vlad
+2020-11-28 23:56:22,231 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-28 23:56:22,231 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606596982.2315881, 'user': 'vlad'}
+2020-11-28 23:56:25,226 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2020-11-28 23:56:32,216 DEBUG client.py Using USERNAME = vasya, PASSWD = 54321.
+2020-11-28 23:56:32,217 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vasya
+2020-11-28 23:56:32,830 DEBUG client.py Keys sucsessfully loaded.
+2020-11-28 23:56:32,884 INFO transport.py Попытка подключения №1
+2020-11-28 23:56:32,885 DEBUG transport.py Connection established
+2020-11-28 23:56:32,885 DEBUG transport.py Установлено соединение с сервером
+2020-11-28 23:56:32,894 DEBUG transport.py Password hash ready: b'2a35638b37e7a4dabd65e4ab5d3e7b98c98437736686a090ff7625a351463a6a3e8e1e38adf4b62d2ceee1a51b10780855c6fe99b8af729dbd3dc4c2dfa96756'
+2020-11-28 23:56:32,894 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0AXzdbgw0UUsu/aqEZm8
+n1Ro7PuwYU37z9Lus5DV6vlB+0/3V0aMHigHeDNsmCrYLyqQf1bBZ/GENTK3sLXq
+pcztGwl1zbDKYfEzCzyPPjrfijGlR5stkKURzu1oIVEbNhBhRDNqftXjkjta52o7
+ORFMPXuHJjoVfXFmNzp1BsdxGFZ3XRB5YpnRF3JEEq1wsWmRHxoXf59hieegSX/v
+y0qFAkDpbPzdVyW/rXTk4YAUuVK8JiXiBq/9hdAcqkPiuf+mkXLGvUD1/c0GnYM6
+XNYVTj2gR+ZfhvIfL2i9kwwOtALaH2ogIFKRb0d3nn1moTFi9f2kcieTElNfdWDb
+bwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-28 23:56:32,894 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606596992.894811, 'user': {'account_name': 'vasya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0AXzdbgw0UUsu/aqEZm8\nn1Ro7PuwYU37z9Lus5DV6vlB+0/3V0aMHigHeDNsmCrYLyqQf1bBZ/GENTK3sLXq\npcztGwl1zbDKYfEzCzyPPjrfijGlR5stkKURzu1oIVEbNhBhRDNqftXjkjta52o7\nORFMPXuHJjoVfXFmNzp1BsdxGFZ3XRB5YpnRF3JEEq1wsWmRHxoXf59hieegSX/v\ny0qFAkDpbPzdVyW/rXTk4YAUuVK8JiXiBq/9hdAcqkPiuf+mkXLGvUD1/c0GnYM6\nXNYVTj2gR+ZfhvIfL2i9kwwOtALaH2ogIFKRb0d3nn1moTFi9f2kcieTElNfdWDb\nbwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-28 23:56:35,896 DEBUG transport.py Server response = {'response': 511, 'bin': '428427e4ba612497172b50d5e7f1d6597dab0b32887bed0dad5643fb04a5409046f24ebc17204d37a832bcb353e58472efa403266b14bd45f240bc9538198549'}.
+2020-11-28 23:56:35,897 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 23:56:35,898 DEBUG transport.py Запрос списка пользователей vasya
+2020-11-28 23:56:38,924 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-28 23:56:38,925 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606596998.925018, 'user': 'vasya'}
+2020-11-28 23:56:41,921 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2020-11-28 23:56:41,921 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-28 23:57:08,492 DEBUG transport.py Создание контакта vlad
+2020-11-28 23:57:08,969 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 23:57:08,977 INFO main_window_gui.py Успешно добавлен контакт <PyQt5.QtGui.QStandardItem object at 0x7f8a1875c790>
+2020-11-28 23:57:16,090 DEBUG transport.py Создание контакта vasya
+2020-11-28 23:57:17,989 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 23:57:17,998 INFO main_window_gui.py Успешно добавлен контакт <PyQt5.QtGui.QStandardItem object at 0x7fd9156f4c10>
+2020-11-28 23:57:26,227 DEBUG transport.py Запрос публичного ключа для vasya
+2020-11-28 23:57:27,000 DEBUG main_window_gui.py Загружен открытый ключ для vasya
+2020-11-28 23:57:35,004 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'vlad', 'to': 'vasya', 'time': 1606597055.0041301, 'message_text': 'p/zNkMYyyoglDS2MqzcZdt81eYN/HoAWVwsWDFPZe9lLvqoGEFSrmjjCCcYAW+lMkpMczyetomy395KKZqFsmL1Ho4OLU+N9PaFmSBvgIWPjBgXwK1llrSjfjXZCiz3DWEj88ZccBrQBKvAbFdD+ZQXcKXo7wNmGPlbi9LCuOOjKTP6VY43tTKqjgWFbjqbgmqlBU2156Ske76g56Lgv36U4yQxN7GWxqvraUbaO8JyOuWJSj+Lzc1/8+nXv6fwP+OnrEoltVuaXwVcxhUyjp+Z8QUTNM6H4v7eo9B4wizp/ULRP+mEZceMZYFUGYviPuKDnQV+vNeZCOYukhWb61A=='}
+2020-11-28 23:57:36,016 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 23:57:36,016 INFO transport.py Отправлено сообщение для пользователя vasya
+2020-11-28 23:57:36,020 DEBUG main_window_gui.py Отправлено сообщение для vasya: Привет
+
+2020-11-28 23:57:36,064 DEBUG transport.py Принято сообщение с сервера: {'action': 'message', 'from': 'vlad', 'to': 'vasya', 'time': 1606597055.0041301, 'message_text': 'p/zNkMYyyoglDS2MqzcZdt81eYN/HoAWVwsWDFPZe9lLvqoGEFSrmjjCCcYAW+lMkpMczyetomy395KKZqFsmL1Ho4OLU+N9PaFmSBvgIWPjBgXwK1llrSjfjXZCiz3DWEj88ZccBrQBKvAbFdD+ZQXcKXo7wNmGPlbi9LCuOOjKTP6VY43tTKqjgWFbjqbgmqlBU2156Ske76g56Lgv36U4yQxN7GWxqvraUbaO8JyOuWJSj+Lzc1/8+nXv6fwP+OnrEoltVuaXwVcxhUyjp+Z8QUTNM6H4v7eo9B4wizp/ULRP+mEZceMZYFUGYviPuKDnQV+vNeZCOYukhWb61A=='}
+2020-11-28 23:57:36,065 DEBUG transport.py Разбор сообщения от сервера: {'action': 'message', 'from': 'vlad', 'to': 'vasya', 'time': 1606597055.0041301, 'message_text': 'p/zNkMYyyoglDS2MqzcZdt81eYN/HoAWVwsWDFPZe9lLvqoGEFSrmjjCCcYAW+lMkpMczyetomy395KKZqFsmL1Ho4OLU+N9PaFmSBvgIWPjBgXwK1llrSjfjXZCiz3DWEj88ZccBrQBKvAbFdD+ZQXcKXo7wNmGPlbi9LCuOOjKTP6VY43tTKqjgWFbjqbgmqlBU2156Ske76g56Lgv36U4yQxN7GWxqvraUbaO8JyOuWJSj+Lzc1/8+nXv6fwP+OnrEoltVuaXwVcxhUyjp+Z8QUTNM6H4v7eo9B4wizp/ULRP+mEZceMZYFUGYviPuKDnQV+vNeZCOYukhWb61A=='}
+2020-11-28 23:57:36,065 DEBUG transport.py Получено сообщение от пользователя vlad:p/zNkMYyyoglDS2MqzcZdt81eYN/HoAWVwsWDFPZe9lLvqoGEFSrmjjCCcYAW+lMkpMczyetomy395KKZqFsmL1Ho4OLU+N9PaFmSBvgIWPjBgXwK1llrSjfjXZCiz3DWEj88ZccBrQBKvAbFdD+ZQXcKXo7wNmGPlbi9LCuOOjKTP6VY43tTKqjgWFbjqbgmqlBU2156Ske76g56Lgv36U4yQxN7GWxqvraUbaO8JyOuWJSj+Lzc1/8+nXv6fwP+OnrEoltVuaXwVcxhUyjp+Z8QUTNM6H4v7eo9B4wizp/ULRP+mEZceMZYFUGYviPuKDnQV+vNeZCOYukhWb61A==
+2020-11-28 23:57:39,203 DEBUG transport.py Запрос публичного ключа для vlad
+2020-11-28 23:57:42,020 DEBUG main_window_gui.py Загружен открытый ключ для vlad
+2020-11-28 23:58:10,631 DEBUG transport.py Запрос публичного ключа для vlad
+2020-11-28 23:58:12,047 DEBUG main_window_gui.py Загружен открытый ключ для vlad
+2020-11-28 23:58:17,311 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'vasya', 'to': 'vlad', 'time': 1606597097.3119118, 'message_text': 'Asl/NgiLxSRX186P4qsNXi5h4+WwBbVbG4MgOM0WceSKmYrh5C5J5zNIEMCo4eZsHBEQCTiklpxoKpWupvgjRphHSXMaFKTLGyDjnIk65uFKyFg6Ro88XrCCatJIRVrA6v1VN3+Ab+pT6Eq0H8JrSWibmnnZ/9QOVWUsyRSqeI81BA6FHAF4RIZvuy+MhJ3ZwXXXd4ojuvqg95Heu55ujPfYWOZIa1xwcaNJLPelcRL3jbZAoBlERfscn7Neaz+jdgYWB9TPDqX3f1V8DH+OZ7QLFxLnvwu3h3373yRsgafMh5z55mb4KN0yzzllkJc2JImDTRd5U1lLIAYs8xaQBQ=='}
+2020-11-28 23:58:18,064 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 23:58:18,064 INFO transport.py Отправлено сообщение для пользователя vlad
+2020-11-28 23:58:18,068 DEBUG main_window_gui.py Отправлено сообщение для vlad: hello
+2020-11-28 23:58:18,196 DEBUG transport.py Принято сообщение с сервера: {'action': 'message', 'from': 'vasya', 'to': 'vlad', 'time': 1606597097.3119118, 'message_text': 'Asl/NgiLxSRX186P4qsNXi5h4+WwBbVbG4MgOM0WceSKmYrh5C5J5zNIEMCo4eZsHBEQCTiklpxoKpWupvgjRphHSXMaFKTLGyDjnIk65uFKyFg6Ro88XrCCatJIRVrA6v1VN3+Ab+pT6Eq0H8JrSWibmnnZ/9QOVWUsyRSqeI81BA6FHAF4RIZvuy+MhJ3ZwXXXd4ojuvqg95Heu55ujPfYWOZIa1xwcaNJLPelcRL3jbZAoBlERfscn7Neaz+jdgYWB9TPDqX3f1V8DH+OZ7QLFxLnvwu3h3373yRsgafMh5z55mb4KN0yzzllkJc2JImDTRd5U1lLIAYs8xaQBQ=='}
+2020-11-28 23:58:18,197 DEBUG transport.py Разбор сообщения от сервера: {'action': 'message', 'from': 'vasya', 'to': 'vlad', 'time': 1606597097.3119118, 'message_text': 'Asl/NgiLxSRX186P4qsNXi5h4+WwBbVbG4MgOM0WceSKmYrh5C5J5zNIEMCo4eZsHBEQCTiklpxoKpWupvgjRphHSXMaFKTLGyDjnIk65uFKyFg6Ro88XrCCatJIRVrA6v1VN3+Ab+pT6Eq0H8JrSWibmnnZ/9QOVWUsyRSqeI81BA6FHAF4RIZvuy+MhJ3ZwXXXd4ojuvqg95Heu55ujPfYWOZIa1xwcaNJLPelcRL3jbZAoBlERfscn7Neaz+jdgYWB9TPDqX3f1V8DH+OZ7QLFxLnvwu3h3373yRsgafMh5z55mb4KN0yzzllkJc2JImDTRd5U1lLIAYs8xaQBQ=='}
+2020-11-28 23:58:18,197 DEBUG transport.py Получено сообщение от пользователя vasya:Asl/NgiLxSRX186P4qsNXi5h4+WwBbVbG4MgOM0WceSKmYrh5C5J5zNIEMCo4eZsHBEQCTiklpxoKpWupvgjRphHSXMaFKTLGyDjnIk65uFKyFg6Ro88XrCCatJIRVrA6v1VN3+Ab+pT6Eq0H8JrSWibmnnZ/9QOVWUsyRSqeI81BA6FHAF4RIZvuy+MhJ3ZwXXXd4ojuvqg95Heu55ujPfYWOZIa1xwcaNJLPelcRL3jbZAoBlERfscn7Neaz+jdgYWB9TPDqX3f1V8DH+OZ7QLFxLnvwu3h3373yRsgafMh5z55mb4KN0yzzllkJc2JImDTRd5U1lLIAYs8xaQBQ==
+2020-11-28 23:58:31,295 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'vlad', 'to': 'vasya', 'time': 1606597111.295558, 'message_text': 'oP8YBHLc8jkAFJBZDVTWs35NAlQQQoN/a+jGfSLLTrZY20vtSobRYO8zwwn72tLCQKQH8DKRBHbCrAW8KuPojC/quvzVg5Y73Zb1mleooCg60TgcetwOvTIOfJfEk+2+1lT8fF2O4ALrzyvVpQEzfJQk7VU5thYPcNSqbByZbtxfLOYRmY9oM0Lbr3PdFyHBbZw6F0jRb3LTCfnguyB5ZM9sW2GdR1YnXTpcJxF7gtFqobwK+ueEj8F4HDD9DgJe2PyYFkwa6Cp7BdyDzbPdithuy6fXU69AWttRjPn2JUdFDNjMWC0eQlWpHpXv3HWyTlNoICByPpw743bgHtWGuQ=='}
+2020-11-28 23:58:33,086 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 23:58:33,086 INFO transport.py Отправлено сообщение для пользователя vasya
+2020-11-28 23:58:33,089 DEBUG main_window_gui.py Отправлено сообщение для vasya: как дела?
+
+2020-11-28 23:58:33,187 DEBUG transport.py Принято сообщение с сервера: {'action': 'message', 'from': 'vlad', 'to': 'vasya', 'time': 1606597111.295558, 'message_text': 'oP8YBHLc8jkAFJBZDVTWs35NAlQQQoN/a+jGfSLLTrZY20vtSobRYO8zwwn72tLCQKQH8DKRBHbCrAW8KuPojC/quvzVg5Y73Zb1mleooCg60TgcetwOvTIOfJfEk+2+1lT8fF2O4ALrzyvVpQEzfJQk7VU5thYPcNSqbByZbtxfLOYRmY9oM0Lbr3PdFyHBbZw6F0jRb3LTCfnguyB5ZM9sW2GdR1YnXTpcJxF7gtFqobwK+ueEj8F4HDD9DgJe2PyYFkwa6Cp7BdyDzbPdithuy6fXU69AWttRjPn2JUdFDNjMWC0eQlWpHpXv3HWyTlNoICByPpw743bgHtWGuQ=='}
+2020-11-28 23:58:33,188 DEBUG transport.py Разбор сообщения от сервера: {'action': 'message', 'from': 'vlad', 'to': 'vasya', 'time': 1606597111.295558, 'message_text': 'oP8YBHLc8jkAFJBZDVTWs35NAlQQQoN/a+jGfSLLTrZY20vtSobRYO8zwwn72tLCQKQH8DKRBHbCrAW8KuPojC/quvzVg5Y73Zb1mleooCg60TgcetwOvTIOfJfEk+2+1lT8fF2O4ALrzyvVpQEzfJQk7VU5thYPcNSqbByZbtxfLOYRmY9oM0Lbr3PdFyHBbZw6F0jRb3LTCfnguyB5ZM9sW2GdR1YnXTpcJxF7gtFqobwK+ueEj8F4HDD9DgJe2PyYFkwa6Cp7BdyDzbPdithuy6fXU69AWttRjPn2JUdFDNjMWC0eQlWpHpXv3HWyTlNoICByPpw743bgHtWGuQ=='}
+2020-11-28 23:58:33,188 DEBUG transport.py Получено сообщение от пользователя vlad:oP8YBHLc8jkAFJBZDVTWs35NAlQQQoN/a+jGfSLLTrZY20vtSobRYO8zwwn72tLCQKQH8DKRBHbCrAW8KuPojC/quvzVg5Y73Zb1mleooCg60TgcetwOvTIOfJfEk+2+1lT8fF2O4ALrzyvVpQEzfJQk7VU5thYPcNSqbByZbtxfLOYRmY9oM0Lbr3PdFyHBbZw6F0jRb3LTCfnguyB5ZM9sW2GdR1YnXTpcJxF7gtFqobwK+ueEj8F4HDD9DgJe2PyYFkwa6Cp7BdyDzbPdithuy6fXU69AWttRjPn2JUdFDNjMWC0eQlWpHpXv3HWyTlNoICByPpw743bgHtWGuQ==
+2020-11-28 23:58:44,622 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'vasya', 'to': 'vlad', 'time': 1606597124.622071, 'message_text': 'sWRAKpGi5npN/nP7E4jTAgk1M2NEiIkSWbkYZzfZLZSQc06Cd6chzdsehkQSpj9TMDuCwJmow6JOUPGwajlKt6WmvspMNHj2IigXMmENuxujZGcrwALWMieNb7Sdu4ejtOY/63DLyo+P8Ku70FopntzdOYIef04Z1X9y1syxSNhI0+HpzHlg339HLhpJxTP3IRiu6zsGTFLzPe04IMHBsWI0jnnmdX+XZdhqOUHxEou4M7FBysWq2J8GEKJPhcoFYi0KQ8klAWXkY4og4Cr5yX5cncI2Y3C8VylVw/zMMGpoC4+xyzc/28umHe2gnxHDgTLmYc/rJwBYTZibmU/1hg=='}
+2020-11-28 23:58:45,111 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-28 23:58:45,111 INFO transport.py Отправлено сообщение для пользователя vlad
+2020-11-28 23:58:45,115 DEBUG main_window_gui.py Отправлено сообщение для vlad: отлично
+как твои?
+2020-11-28 23:58:45,142 DEBUG transport.py Принято сообщение с сервера: {'action': 'message', 'from': 'vasya', 'to': 'vlad', 'time': 1606597124.622071, 'message_text': 'sWRAKpGi5npN/nP7E4jTAgk1M2NEiIkSWbkYZzfZLZSQc06Cd6chzdsehkQSpj9TMDuCwJmow6JOUPGwajlKt6WmvspMNHj2IigXMmENuxujZGcrwALWMieNb7Sdu4ejtOY/63DLyo+P8Ku70FopntzdOYIef04Z1X9y1syxSNhI0+HpzHlg339HLhpJxTP3IRiu6zsGTFLzPe04IMHBsWI0jnnmdX+XZdhqOUHxEou4M7FBysWq2J8GEKJPhcoFYi0KQ8klAWXkY4og4Cr5yX5cncI2Y3C8VylVw/zMMGpoC4+xyzc/28umHe2gnxHDgTLmYc/rJwBYTZibmU/1hg=='}
+2020-11-28 23:58:45,142 DEBUG transport.py Разбор сообщения от сервера: {'action': 'message', 'from': 'vasya', 'to': 'vlad', 'time': 1606597124.622071, 'message_text': 'sWRAKpGi5npN/nP7E4jTAgk1M2NEiIkSWbkYZzfZLZSQc06Cd6chzdsehkQSpj9TMDuCwJmow6JOUPGwajlKt6WmvspMNHj2IigXMmENuxujZGcrwALWMieNb7Sdu4ejtOY/63DLyo+P8Ku70FopntzdOYIef04Z1X9y1syxSNhI0+HpzHlg339HLhpJxTP3IRiu6zsGTFLzPe04IMHBsWI0jnnmdX+XZdhqOUHxEou4M7FBysWq2J8GEKJPhcoFYi0KQ8klAWXkY4og4Cr5yX5cncI2Y3C8VylVw/zMMGpoC4+xyzc/28umHe2gnxHDgTLmYc/rJwBYTZibmU/1hg=='}
+2020-11-28 23:58:45,142 DEBUG transport.py Получено сообщение от пользователя vasya:sWRAKpGi5npN/nP7E4jTAgk1M2NEiIkSWbkYZzfZLZSQc06Cd6chzdsehkQSpj9TMDuCwJmow6JOUPGwajlKt6WmvspMNHj2IigXMmENuxujZGcrwALWMieNb7Sdu4ejtOY/63DLyo+P8Ku70FopntzdOYIef04Z1X9y1syxSNhI0+HpzHlg339HLhpJxTP3IRiu6zsGTFLzPe04IMHBsWI0jnnmdX+XZdhqOUHxEou4M7FBysWq2J8GEKJPhcoFYi0KQ8klAWXkY4og4Cr5yX5cncI2Y3C8VylVw/zMMGpoC4+xyzc/28umHe2gnxHDgTLmYc/rJwBYTZibmU/1hg==
+2020-11-29 12:31:55,313 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'vlad', 'to': 'vasya', 'time': 1606642315.312899, 'message_text': 'bXmL60Q4bvHZnfZLLONtjve+zk4Ve/9yfRC0wVovvrkqyzhwemUbYOnL3GzAQZwGdGK02cr7d6Y1yPXZsvvnqZXl4msCQChFFVpDSV9lmReb7yv58Sf8aaWrg218WpUgsi9wnoIwSR+gHDI9KqIExEbY/xcsSAmz4DuqClhOh6CdJnFsU6Bbmpbww0+qxRRyg+tHSDpc9bNLPRzNdUOiXho5k9JlJ+8Dp4XUmx5ncbBKTLn2NLTHlnWBq4sUhNKqDdZMhjI0I1o/pus6ceAb+e3KWhUqMLx6rtOjuPWyc2ZnIxeuwQBaMycp/zdN/11gmlcCx0zPXYAk2EOukcaLsA=='}
+2020-11-29 12:31:55,598 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-29 12:31:55,599 INFO transport.py Отправлено сообщение для пользователя vasya
+2020-11-29 12:31:55,640 DEBUG main_window_gui.py Отправлено сообщение для vasya: что делаешь?
+
+2020-11-29 12:31:55,911 DEBUG transport.py Принято сообщение с сервера: {'action': 'message', 'from': 'vlad', 'to': 'vasya', 'time': 1606642315.312899, 'message_text': 'bXmL60Q4bvHZnfZLLONtjve+zk4Ve/9yfRC0wVovvrkqyzhwemUbYOnL3GzAQZwGdGK02cr7d6Y1yPXZsvvnqZXl4msCQChFFVpDSV9lmReb7yv58Sf8aaWrg218WpUgsi9wnoIwSR+gHDI9KqIExEbY/xcsSAmz4DuqClhOh6CdJnFsU6Bbmpbww0+qxRRyg+tHSDpc9bNLPRzNdUOiXho5k9JlJ+8Dp4XUmx5ncbBKTLn2NLTHlnWBq4sUhNKqDdZMhjI0I1o/pus6ceAb+e3KWhUqMLx6rtOjuPWyc2ZnIxeuwQBaMycp/zdN/11gmlcCx0zPXYAk2EOukcaLsA=='}
+2020-11-29 12:31:55,914 DEBUG transport.py Разбор сообщения от сервера: {'action': 'message', 'from': 'vlad', 'to': 'vasya', 'time': 1606642315.312899, 'message_text': 'bXmL60Q4bvHZnfZLLONtjve+zk4Ve/9yfRC0wVovvrkqyzhwemUbYOnL3GzAQZwGdGK02cr7d6Y1yPXZsvvnqZXl4msCQChFFVpDSV9lmReb7yv58Sf8aaWrg218WpUgsi9wnoIwSR+gHDI9KqIExEbY/xcsSAmz4DuqClhOh6CdJnFsU6Bbmpbww0+qxRRyg+tHSDpc9bNLPRzNdUOiXho5k9JlJ+8Dp4XUmx5ncbBKTLn2NLTHlnWBq4sUhNKqDdZMhjI0I1o/pus6ceAb+e3KWhUqMLx6rtOjuPWyc2ZnIxeuwQBaMycp/zdN/11gmlcCx0zPXYAk2EOukcaLsA=='}
+2020-11-29 12:31:55,914 DEBUG transport.py Получено сообщение от пользователя vlad:bXmL60Q4bvHZnfZLLONtjve+zk4Ve/9yfRC0wVovvrkqyzhwemUbYOnL3GzAQZwGdGK02cr7d6Y1yPXZsvvnqZXl4msCQChFFVpDSV9lmReb7yv58Sf8aaWrg218WpUgsi9wnoIwSR+gHDI9KqIExEbY/xcsSAmz4DuqClhOh6CdJnFsU6Bbmpbww0+qxRRyg+tHSDpc9bNLPRzNdUOiXho5k9JlJ+8Dp4XUmx5ncbBKTLn2NLTHlnWBq4sUhNKqDdZMhjI0I1o/pus6ceAb+e3KWhUqMLx6rtOjuPWyc2ZnIxeuwQBaMycp/zdN/11gmlcCx0zPXYAk2EOukcaLsA==
+2020-11-29 12:32:33,894 DEBUG transport.py Потеряно соединение с сервером.
+2020-11-29 12:32:34,550 DEBUG transport.py Потеряно соединение с сервером.
+2020-11-29 12:32:36,074 DEBUG transport.py Транспорт завершает работу.
+2020-11-29 12:32:39,054 DEBUG transport.py Транспорт завершает работу.
+2020-11-30 09:22:03,262 DEBUG client.py Load arguments
+2020-11-30 09:22:06,046 DEBUG client.py Load arguments
+2020-11-30 09:22:17,511 DEBUG client.py Using USERNAME = vlad, PASSWD = 12345.
+2020-11-30 09:22:17,511 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vlad
+2020-11-30 09:22:17,612 DEBUG client.py Keys sucsessfully loaded.
+2020-11-30 09:22:17,646 DEBUG client.py Создан объект базы данных клиента vlad
+2020-11-30 09:22:17,647 INFO transport.py Попытка подключения №1
+2020-11-30 09:22:17,647 DEBUG transport.py Connection established
+2020-11-30 09:22:17,647 DEBUG transport.py Установлено соединение с сервером
+2020-11-30 09:22:17,658 DEBUG transport.py Password hash ready: b'dddaf2b37268fdc823d58d03cd0fbeafb1de458aa739ef0c3f26b54768e451e0539cc982ebc31745697efd377ea5fd4f2d3686c8adf838e1b0db49f7db455e59'
+2020-11-30 09:22:17,658 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EYtI1wVdGqTe+SjLGV7
+HwUB1hwxqlO4DB068NnijVX3jcSxGKgrwpzSt6+WP3HRHBaCA+A5WCrl4lmVDO21
+XuB6JsUzGSd9e+Y9KYZ6f++nf0B3mBa0z75dWqATBhOL3F16rnHbi39I5G/WeRK/
+ztYgj1US6Ju7gcg23dzl0/PGmPzD+/rkC7hS15SfCGkOSzDw5P/QXUtKP/gigs4E
+ZuCUeij7k+1SHqsoE3l/UcH0l48Mku7FZ8JhItlm3xrMC0rNWeh4OIxuiEMq6Htl
+flgNQMqpMF2Qvf21qaEMnyGvCnu1RpH4VDSJLZjnCMOWgJUdwEJW5vvRi4HGz5mp
+NwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-30 09:22:17,658 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606717337.658792, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EYtI1wVdGqTe+SjLGV7\nHwUB1hwxqlO4DB068NnijVX3jcSxGKgrwpzSt6+WP3HRHBaCA+A5WCrl4lmVDO21\nXuB6JsUzGSd9e+Y9KYZ6f++nf0B3mBa0z75dWqATBhOL3F16rnHbi39I5G/WeRK/\nztYgj1US6Ju7gcg23dzl0/PGmPzD+/rkC7hS15SfCGkOSzDw5P/QXUtKP/gigs4E\nZuCUeij7k+1SHqsoE3l/UcH0l48Mku7FZ8JhItlm3xrMC0rNWeh4OIxuiEMq6Htl\nflgNQMqpMF2Qvf21qaEMnyGvCnu1RpH4VDSJLZjnCMOWgJUdwEJW5vvRi4HGz5mp\nNwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-30 09:22:20,660 DEBUG transport.py Server response = {'response': 511, 'bin': 'e1e83e23be468783ec37140630b3e13cba88afff627b52ac46c069460cbe289dc6feeb2624191c51edf68b4d16ff25a6c206a704da3878d45dc88f684bcd24e9'}.
+2020-11-30 09:22:20,661 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-30 09:22:20,661 DEBUG transport.py Запрос списка пользователей vlad
+2020-11-30 09:22:23,692 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-30 09:22:23,692 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606717343.692319, 'user': 'vlad'}
+2020-11-30 09:22:26,689 DEBUG transport.py Получен ответ {'response': 202, 'data_list': ['vasya']}
+2020-11-30 09:22:26,696 DEBUG client.py Transport ready.
+2020-11-30 09:22:26,697 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-30 09:22:30,347 DEBUG client.py Using USERNAME = vasya, PASSWD = 12345.
+2020-11-30 09:22:30,348 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vasya
+2020-11-30 09:22:30,434 DEBUG client.py Keys sucsessfully loaded.
+2020-11-30 09:22:30,463 DEBUG client.py Создан объект базы данных клиента vasya
+2020-11-30 09:22:30,463 INFO transport.py Попытка подключения №1
+2020-11-30 09:22:30,463 DEBUG transport.py Connection established
+2020-11-30 09:22:30,464 DEBUG transport.py Установлено соединение с сервером
+2020-11-30 09:22:30,473 DEBUG transport.py Password hash ready: b'266a7972fd1287e415277f3fdcd27921ecdf8d0ef81a07101a2806277042b92b70bde588fd1858841cfbf66c01dc454c2e95789f504c5579db69b7bdf0e40b58'
+2020-11-30 09:22:30,474 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0AXzdbgw0UUsu/aqEZm8
+n1Ro7PuwYU37z9Lus5DV6vlB+0/3V0aMHigHeDNsmCrYLyqQf1bBZ/GENTK3sLXq
+pcztGwl1zbDKYfEzCzyPPjrfijGlR5stkKURzu1oIVEbNhBhRDNqftXjkjta52o7
+ORFMPXuHJjoVfXFmNzp1BsdxGFZ3XRB5YpnRF3JEEq1wsWmRHxoXf59hieegSX/v
+y0qFAkDpbPzdVyW/rXTk4YAUuVK8JiXiBq/9hdAcqkPiuf+mkXLGvUD1/c0GnYM6
+XNYVTj2gR+ZfhvIfL2i9kwwOtALaH2ogIFKRb0d3nn1moTFi9f2kcieTElNfdWDb
+bwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-30 09:22:30,474 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606717350.474189, 'user': {'account_name': 'vasya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0AXzdbgw0UUsu/aqEZm8\nn1Ro7PuwYU37z9Lus5DV6vlB+0/3V0aMHigHeDNsmCrYLyqQf1bBZ/GENTK3sLXq\npcztGwl1zbDKYfEzCzyPPjrfijGlR5stkKURzu1oIVEbNhBhRDNqftXjkjta52o7\nORFMPXuHJjoVfXFmNzp1BsdxGFZ3XRB5YpnRF3JEEq1wsWmRHxoXf59hieegSX/v\ny0qFAkDpbPzdVyW/rXTk4YAUuVK8JiXiBq/9hdAcqkPiuf+mkXLGvUD1/c0GnYM6\nXNYVTj2gR+ZfhvIfL2i9kwwOtALaH2ogIFKRb0d3nn1moTFi9f2kcieTElNfdWDb\nbwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-30 09:22:33,473 DEBUG transport.py Server response = {'response': 511, 'bin': 'b0425ab9ea33f114ee437d34aa25b988bdf9f71d923fe274607e34d26d54da57c56e754be8bf7c883bf551b387f23c4f87d6bf2cdf4bbaf0f88f2016b4e3bb7e'}.
+2020-11-30 09:22:33,474 DEBUG transport.py Разбор сообщения от сервера: {'response': 400, 'error': 'Неверный пароль.'}
+2020-11-30 09:22:33,474 DEBUG transport.py Запрос списка пользователей vasya
+2020-11-30 09:22:33,474 CRITICAL transport.py Потеряно соединение с сервером.
+2020-11-30 09:24:40,164 DEBUG client.py Load arguments
+2020-11-30 09:24:43,143 DEBUG client.py Load arguments
+2020-11-30 09:24:55,015 DEBUG client.py Using USERNAME = vlad, PASSWD = 12345.
+2020-11-30 09:24:55,015 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: vlad
+2020-11-30 09:24:55,100 DEBUG client.py Keys sucsessfully loaded.
+2020-11-30 09:24:55,129 DEBUG client.py Создан объект базы данных клиента vlad
+2020-11-30 09:24:55,129 INFO transport.py Попытка подключения №1
+2020-11-30 09:24:55,130 DEBUG transport.py Connection established
+2020-11-30 09:24:55,130 DEBUG transport.py Установлено соединение с сервером
+2020-11-30 09:24:55,139 DEBUG transport.py Password hash ready: b'dddaf2b37268fdc823d58d03cd0fbeafb1de458aa739ef0c3f26b54768e451e0539cc982ebc31745697efd377ea5fd4f2d3686c8adf838e1b0db49f7db455e59'
+2020-11-30 09:24:55,139 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EYtI1wVdGqTe+SjLGV7
+HwUB1hwxqlO4DB068NnijVX3jcSxGKgrwpzSt6+WP3HRHBaCA+A5WCrl4lmVDO21
+XuB6JsUzGSd9e+Y9KYZ6f++nf0B3mBa0z75dWqATBhOL3F16rnHbi39I5G/WeRK/
+ztYgj1US6Ju7gcg23dzl0/PGmPzD+/rkC7hS15SfCGkOSzDw5P/QXUtKP/gigs4E
+ZuCUeij7k+1SHqsoE3l/UcH0l48Mku7FZ8JhItlm3xrMC0rNWeh4OIxuiEMq6Htl
+flgNQMqpMF2Qvf21qaEMnyGvCnu1RpH4VDSJLZjnCMOWgJUdwEJW5vvRi4HGz5mp
+NwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-30 09:24:55,140 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606717495.140024, 'user': {'account_name': 'vlad', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EYtI1wVdGqTe+SjLGV7\nHwUB1hwxqlO4DB068NnijVX3jcSxGKgrwpzSt6+WP3HRHBaCA+A5WCrl4lmVDO21\nXuB6JsUzGSd9e+Y9KYZ6f++nf0B3mBa0z75dWqATBhOL3F16rnHbi39I5G/WeRK/\nztYgj1US6Ju7gcg23dzl0/PGmPzD+/rkC7hS15SfCGkOSzDw5P/QXUtKP/gigs4E\nZuCUeij7k+1SHqsoE3l/UcH0l48Mku7FZ8JhItlm3xrMC0rNWeh4OIxuiEMq6Htl\nflgNQMqpMF2Qvf21qaEMnyGvCnu1RpH4VDSJLZjnCMOWgJUdwEJW5vvRi4HGz5mp\nNwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-30 09:24:58,139 DEBUG transport.py Server response = {'response': 511, 'bin': '1ac28bbdb95d8228c0a265e532da90282fb75a65e77158410a5d6362e809e0cf5eea6c14d0cdd8f30006e796bae5c0d43c2a7fa758bc858d0764d516e27a932e'}.
+2020-11-30 09:24:58,140 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-30 09:24:58,140 DEBUG transport.py Запрос списка пользователей vlad
+2020-11-30 09:25:01,170 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-30 09:25:01,170 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606717501.170628, 'user': 'vlad'}
+2020-11-30 09:25:04,165 DEBUG transport.py Получен ответ {'response': 202, 'data_list': ['vasya']}
+2020-11-30 09:25:04,175 DEBUG client.py Transport ready.
+2020-11-30 09:25:04,176 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-30 09:25:05,115 DEBUG client.py Using USERNAME = sergey, PASSWD = 12345.
+2020-11-30 09:25:05,116 INFO client.py Запущен клиент: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: sergey
+2020-11-30 09:25:08,749 DEBUG client.py Keys sucsessfully loaded.
+2020-11-30 09:25:08,787 DEBUG client.py Создан объект базы данных клиента sergey
+2020-11-30 09:25:08,787 INFO transport.py Попытка подключения №1
+2020-11-30 09:25:08,788 DEBUG transport.py Connection established
+2020-11-30 09:25:08,788 DEBUG transport.py Установлено соединение с сервером
+2020-11-30 09:25:08,797 DEBUG transport.py Password hash ready: b'18678cdcd2de991dd2053ddd806a926ff98c868fe35ddf45fbb93703bae36439284399c60ebc21ef3fab5fe4bc8c28b605a1541063b4b41d65b0f06727e30453'
+2020-11-30 09:25:08,797 DEBUG transport.py Публичный ключ готов : -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxqhGG/PYJYSHoqHlvBo0
+lt4vwVG5Nw79tgnLgWIjmLh8XBAK9Be8gtM84UZDmtLXulx1lGXbSlRgDNIKkKgy
+W6fDiI5P/v/lcJjJ7KvdJxzbFRZQSdnBmH24KluqNDe0MNzyBZdO/j6S8q5/x1ok
+3I1tW+q+GdqCLWtbQLgWxI1BfXFIDjZP9GS2RG4FLzuujjijr6SN6U+EUagaN+zE
+GXXkDIC+iQNHdbHiYNT62vAnam6NXUtDLYZZo9XI2yXH7ZSpf6f5nTF9m5eN5YYe
+9pAe27b3rSvABOIz8coBq8yWfvRTfLClkCB2qAmyigkr11josUZxE0Oe4gXnfP0t
+rwIDAQAB
+-----END PUBLIC KEY-----
+2020-11-30 09:25:08,797 DEBUG transport.py Presence message = {'action': 'presence', 'time': 1606717508.797919, 'user': {'account_name': 'sergey', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxqhGG/PYJYSHoqHlvBo0\nlt4vwVG5Nw79tgnLgWIjmLh8XBAK9Be8gtM84UZDmtLXulx1lGXbSlRgDNIKkKgy\nW6fDiI5P/v/lcJjJ7KvdJxzbFRZQSdnBmH24KluqNDe0MNzyBZdO/j6S8q5/x1ok\n3I1tW+q+GdqCLWtbQLgWxI1BfXFIDjZP9GS2RG4FLzuujjijr6SN6U+EUagaN+zE\nGXXkDIC+iQNHdbHiYNT62vAnam6NXUtDLYZZo9XI2yXH7ZSpf6f5nTF9m5eN5YYe\n9pAe27b3rSvABOIz8coBq8yWfvRTfLClkCB2qAmyigkr11josUZxE0Oe4gXnfP0t\nrwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-11-30 09:25:11,794 DEBUG transport.py Server response = {'response': 511, 'bin': '8612cb024899611c3ee7d2fbfabae44b20dce4969ea3bce52722c8baf89d8d58b967d76aaaa9661d1b13a09ee2ce2439d15db2666ab8ffb9ca12be495d1d3b85'}.
+2020-11-30 09:25:11,795 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-30 09:25:11,795 DEBUG transport.py Запрос списка пользователей sergey
+2020-11-30 09:25:14,823 DEBUG transport.py Запрос контакт листа для пользователя Thread-1
+2020-11-30 09:25:14,823 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1606717514.823364, 'user': 'sergey'}
+2020-11-30 09:25:17,821 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2020-11-30 09:25:17,821 DEBUG client.py Transport ready.
+2020-11-30 09:25:17,822 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2020-11-30 09:25:24,771 DEBUG transport.py Создание контакта vlad
+2020-11-30 09:25:26,849 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-30 09:25:26,856 INFO main_window_gui.py Успешно добавлен контакт <PyQt5.QtGui.QStandardItem object at 0x7faa63947dc0>
+2020-11-30 09:25:34,144 DEBUG transport.py Создание контакта sergey
+2020-11-30 09:25:35,864 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-30 09:25:35,870 INFO main_window_gui.py Успешно добавлен контакт <PyQt5.QtGui.QStandardItem object at 0x7fb4ef101b80>
+2020-11-30 09:25:38,760 DEBUG transport.py Запрос публичного ключа для sergey
+2020-11-30 09:25:38,871 DEBUG main_window_gui.py Загружен открытый ключ для sergey
+2020-11-30 09:25:45,625 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'vlad', 'to': 'sergey', 'time': 1606717545.625504, 'message_text': 'oifPM8S9Lf+PEndol1s4lPPEpliKilSrpTpa7axiAVqe/gClf41BmSiXSr4tSaA008GQZRDtHVX22aEOssjPFEN3KY6yS4PDHJOg1TFhhzyv75GCt8Z7QZpO4mLXYtWlhSr1jdMFm9FL2fN3H56oS9VT1Hi7JQZDRpLbpNHOlU2tTNmcnfhZ73eASJdOjk6yVZmFZEYOXT6EuBDuLfXU0lnkXKMHz7gF3pq9SoxpZhR6xGgiahAv6VKLQIGyHKHx6y52Bfyh3MHz/kCMpjDmsieCRr4sbAaEHEDSkjfpLkk/ZK4I0dIO7w6Gli7qiKq10GOQhcHXkz+8RBZVnu035Q=='}
+2020-11-30 09:25:47,892 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-30 09:25:47,892 INFO transport.py Отправлено сообщение для пользователя sergey
+2020-11-30 09:25:47,896 DEBUG main_window_gui.py Отправлено сообщение для sergey: Привет
+2020-11-30 09:25:47,915 DEBUG transport.py Принято сообщение с сервера: {'action': 'message', 'from': 'vlad', 'to': 'sergey', 'time': 1606717545.625504, 'message_text': 'oifPM8S9Lf+PEndol1s4lPPEpliKilSrpTpa7axiAVqe/gClf41BmSiXSr4tSaA008GQZRDtHVX22aEOssjPFEN3KY6yS4PDHJOg1TFhhzyv75GCt8Z7QZpO4mLXYtWlhSr1jdMFm9FL2fN3H56oS9VT1Hi7JQZDRpLbpNHOlU2tTNmcnfhZ73eASJdOjk6yVZmFZEYOXT6EuBDuLfXU0lnkXKMHz7gF3pq9SoxpZhR6xGgiahAv6VKLQIGyHKHx6y52Bfyh3MHz/kCMpjDmsieCRr4sbAaEHEDSkjfpLkk/ZK4I0dIO7w6Gli7qiKq10GOQhcHXkz+8RBZVnu035Q=='}
+2020-11-30 09:25:47,915 DEBUG transport.py Разбор сообщения от сервера: {'action': 'message', 'from': 'vlad', 'to': 'sergey', 'time': 1606717545.625504, 'message_text': 'oifPM8S9Lf+PEndol1s4lPPEpliKilSrpTpa7axiAVqe/gClf41BmSiXSr4tSaA008GQZRDtHVX22aEOssjPFEN3KY6yS4PDHJOg1TFhhzyv75GCt8Z7QZpO4mLXYtWlhSr1jdMFm9FL2fN3H56oS9VT1Hi7JQZDRpLbpNHOlU2tTNmcnfhZ73eASJdOjk6yVZmFZEYOXT6EuBDuLfXU0lnkXKMHz7gF3pq9SoxpZhR6xGgiahAv6VKLQIGyHKHx6y52Bfyh3MHz/kCMpjDmsieCRr4sbAaEHEDSkjfpLkk/ZK4I0dIO7w6Gli7qiKq10GOQhcHXkz+8RBZVnu035Q=='}
+2020-11-30 09:25:47,915 DEBUG transport.py Получено сообщение от пользователя vlad:oifPM8S9Lf+PEndol1s4lPPEpliKilSrpTpa7axiAVqe/gClf41BmSiXSr4tSaA008GQZRDtHVX22aEOssjPFEN3KY6yS4PDHJOg1TFhhzyv75GCt8Z7QZpO4mLXYtWlhSr1jdMFm9FL2fN3H56oS9VT1Hi7JQZDRpLbpNHOlU2tTNmcnfhZ73eASJdOjk6yVZmFZEYOXT6EuBDuLfXU0lnkXKMHz7gF3pq9SoxpZhR6xGgiahAv6VKLQIGyHKHx6y52Bfyh3MHz/kCMpjDmsieCRr4sbAaEHEDSkjfpLkk/ZK4I0dIO7w6Gli7qiKq10GOQhcHXkz+8RBZVnu035Q==
+2020-11-30 09:25:50,076 DEBUG transport.py Запрос публичного ключа для vlad
+2020-11-30 09:25:50,896 DEBUG main_window_gui.py Загружен открытый ключ для vlad
+2020-11-30 09:26:03,521 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'sergey', 'to': 'vlad', 'time': 1606717563.521079, 'message_text': 'a5JmkHnBzWtNKoRvbW36qIgGGeyHDE5Xk6RyQb6LkIBaCrM6aPx7m8SADEpMf6xm+n7vTUg1D93foIJWvzsXhOYYL4dJodOzPsUGtSdUmm0hfV6E23SOh/55zfsIi9pPeI7BFC+VvV5Y26CUCm2NHDuWQ0g447eU08oXveWEcV3UOTTIqUbkVG9M4qz6+RFsxLkHw47Qnua6vMmO6YqObJjSuYHoy9E0dkVwlYoInm8CV/8j+Hy8lNxyxujRtvxyEqVgD/d3kRYNRh3iZ5BaqMZZ2RVGakwGBivdY3PbVkaxOa0n4IwsvlHP1EiOdjvNeZ+/oawIw+RxtgpSOLe76A=='}
+2020-11-30 09:26:05,916 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-30 09:26:05,916 INFO transport.py Отправлено сообщение для пользователя vlad
+2020-11-30 09:26:05,919 DEBUG main_window_gui.py Отправлено сообщение для vlad: привет
+2020-11-30 09:26:05,950 DEBUG transport.py Принято сообщение с сервера: {'action': 'message', 'from': 'sergey', 'to': 'vlad', 'time': 1606717563.521079, 'message_text': 'a5JmkHnBzWtNKoRvbW36qIgGGeyHDE5Xk6RyQb6LkIBaCrM6aPx7m8SADEpMf6xm+n7vTUg1D93foIJWvzsXhOYYL4dJodOzPsUGtSdUmm0hfV6E23SOh/55zfsIi9pPeI7BFC+VvV5Y26CUCm2NHDuWQ0g447eU08oXveWEcV3UOTTIqUbkVG9M4qz6+RFsxLkHw47Qnua6vMmO6YqObJjSuYHoy9E0dkVwlYoInm8CV/8j+Hy8lNxyxujRtvxyEqVgD/d3kRYNRh3iZ5BaqMZZ2RVGakwGBivdY3PbVkaxOa0n4IwsvlHP1EiOdjvNeZ+/oawIw+RxtgpSOLe76A=='}
+2020-11-30 09:26:05,950 DEBUG transport.py Разбор сообщения от сервера: {'action': 'message', 'from': 'sergey', 'to': 'vlad', 'time': 1606717563.521079, 'message_text': 'a5JmkHnBzWtNKoRvbW36qIgGGeyHDE5Xk6RyQb6LkIBaCrM6aPx7m8SADEpMf6xm+n7vTUg1D93foIJWvzsXhOYYL4dJodOzPsUGtSdUmm0hfV6E23SOh/55zfsIi9pPeI7BFC+VvV5Y26CUCm2NHDuWQ0g447eU08oXveWEcV3UOTTIqUbkVG9M4qz6+RFsxLkHw47Qnua6vMmO6YqObJjSuYHoy9E0dkVwlYoInm8CV/8j+Hy8lNxyxujRtvxyEqVgD/d3kRYNRh3iZ5BaqMZZ2RVGakwGBivdY3PbVkaxOa0n4IwsvlHP1EiOdjvNeZ+/oawIw+RxtgpSOLe76A=='}
+2020-11-30 09:26:05,950 DEBUG transport.py Получено сообщение от пользователя sergey:a5JmkHnBzWtNKoRvbW36qIgGGeyHDE5Xk6RyQb6LkIBaCrM6aPx7m8SADEpMf6xm+n7vTUg1D93foIJWvzsXhOYYL4dJodOzPsUGtSdUmm0hfV6E23SOh/55zfsIi9pPeI7BFC+VvV5Y26CUCm2NHDuWQ0g447eU08oXveWEcV3UOTTIqUbkVG9M4qz6+RFsxLkHw47Qnua6vMmO6YqObJjSuYHoy9E0dkVwlYoInm8CV/8j+Hy8lNxyxujRtvxyEqVgD/d3kRYNRh3iZ5BaqMZZ2RVGakwGBivdY3PbVkaxOa0n4IwsvlHP1EiOdjvNeZ+/oawIw+RxtgpSOLe76A==
+2020-11-30 09:26:18,643 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'sergey', 'to': 'vlad', 'time': 1606717578.6434062, 'message_text': 'JBEqnzZsCfoRWPFHSAknlFvEbR5xoehM0ipIwH+ht+s2e14vCpwjNJC2utCVYqWMYWNLU2+WyQS6eMJnI7V3GWdyEcyj/IrVesyCm8bWdeKS7e2OMbTDIH46m7ePmX832fIESB21Gzvuq+eqXkKOZ1zdlUjxokAhL/47Qn8TMOdztCw9/YHrbRJZgKOKk/5B6IK9ttxQQ602S6oR82lj2rGJynrcBmFSeknjRz7ydWqu/uN01iEtPbVcFJ6W6BPvj+F1dsD8CUp+TFoZ4B4zwYm0XIWQba2e4c+aw3lPdmVDhAyNjYrkA5FOlqmx2bwLUA/2NSGtHXqJ4xMA0WkH6Q=='}
+2020-11-30 09:26:21,226 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-30 09:26:21,226 INFO transport.py Отправлено сообщение для пользователя vlad
+2020-11-30 09:26:21,230 DEBUG main_window_gui.py Отправлено сообщение для vlad: как дела?
+2020-11-30 09:26:22,011 DEBUG transport.py Принято сообщение с сервера: {'action': 'message', 'from': 'sergey', 'to': 'vlad', 'time': 1606717578.6434062, 'message_text': 'JBEqnzZsCfoRWPFHSAknlFvEbR5xoehM0ipIwH+ht+s2e14vCpwjNJC2utCVYqWMYWNLU2+WyQS6eMJnI7V3GWdyEcyj/IrVesyCm8bWdeKS7e2OMbTDIH46m7ePmX832fIESB21Gzvuq+eqXkKOZ1zdlUjxokAhL/47Qn8TMOdztCw9/YHrbRJZgKOKk/5B6IK9ttxQQ602S6oR82lj2rGJynrcBmFSeknjRz7ydWqu/uN01iEtPbVcFJ6W6BPvj+F1dsD8CUp+TFoZ4B4zwYm0XIWQba2e4c+aw3lPdmVDhAyNjYrkA5FOlqmx2bwLUA/2NSGtHXqJ4xMA0WkH6Q=='}
+2020-11-30 09:26:22,011 DEBUG transport.py Разбор сообщения от сервера: {'action': 'message', 'from': 'sergey', 'to': 'vlad', 'time': 1606717578.6434062, 'message_text': 'JBEqnzZsCfoRWPFHSAknlFvEbR5xoehM0ipIwH+ht+s2e14vCpwjNJC2utCVYqWMYWNLU2+WyQS6eMJnI7V3GWdyEcyj/IrVesyCm8bWdeKS7e2OMbTDIH46m7ePmX832fIESB21Gzvuq+eqXkKOZ1zdlUjxokAhL/47Qn8TMOdztCw9/YHrbRJZgKOKk/5B6IK9ttxQQ602S6oR82lj2rGJynrcBmFSeknjRz7ydWqu/uN01iEtPbVcFJ6W6BPvj+F1dsD8CUp+TFoZ4B4zwYm0XIWQba2e4c+aw3lPdmVDhAyNjYrkA5FOlqmx2bwLUA/2NSGtHXqJ4xMA0WkH6Q=='}
+2020-11-30 09:26:22,011 DEBUG transport.py Получено сообщение от пользователя sergey:JBEqnzZsCfoRWPFHSAknlFvEbR5xoehM0ipIwH+ht+s2e14vCpwjNJC2utCVYqWMYWNLU2+WyQS6eMJnI7V3GWdyEcyj/IrVesyCm8bWdeKS7e2OMbTDIH46m7ePmX832fIESB21Gzvuq+eqXkKOZ1zdlUjxokAhL/47Qn8TMOdztCw9/YHrbRJZgKOKk/5B6IK9ttxQQ602S6oR82lj2rGJynrcBmFSeknjRz7ydWqu/uN01iEtPbVcFJ6W6BPvj+F1dsD8CUp+TFoZ4B4zwYm0XIWQba2e4c+aw3lPdmVDhAyNjYrkA5FOlqmx2bwLUA/2NSGtHXqJ4xMA0WkH6Q==
+2020-11-30 09:26:36,978 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'vlad', 'to': 'sergey', 'time': 1606717596.97807, 'message_text': 'Bpm5EQNt/8O5hoLA3FO8wShiSFPMk7sUbLoPgc7YcuJAojyfOm3/qhg3E4KfgkKfzlYfgPL4Q1OLtdLmXsT6QkRdNlvkZ6AwTmy1BQYVtBvP6Mzc+wwPpGNzJGb7vRd0ZOx7RBP2zKaMS5Tz2owSTCSEc2IgyiLcEsQbUnmjnc/b8B2PS01YeDQwpv4wqnqqbtjdSS0r0evGqwiUN9J2E5gHxTHQWLf+l3L4hhCtazMca4Pe6D22eJJOHxR+IMLGK61nIa46A/RsqkPyG2OHF9FEkG6KDxsxwMHuvYwGxW1eo3I8hC6FCrDMFN9ypAfS+sNLOG9FE0i68WMVf0yQ9w=='}
+2020-11-30 09:26:38,333 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2020-11-30 09:26:38,334 INFO transport.py Отправлено сообщение для пользователя sergey
+2020-11-30 09:26:38,337 DEBUG main_window_gui.py Отправлено сообщение для sergey: хорошо. Как у тебя?
+2020-11-30 09:26:39,292 DEBUG transport.py Принято сообщение с сервера: {'action': 'message', 'from': 'vlad', 'to': 'sergey', 'time': 1606717596.97807, 'message_text': 'Bpm5EQNt/8O5hoLA3FO8wShiSFPMk7sUbLoPgc7YcuJAojyfOm3/qhg3E4KfgkKfzlYfgPL4Q1OLtdLmXsT6QkRdNlvkZ6AwTmy1BQYVtBvP6Mzc+wwPpGNzJGb7vRd0ZOx7RBP2zKaMS5Tz2owSTCSEc2IgyiLcEsQbUnmjnc/b8B2PS01YeDQwpv4wqnqqbtjdSS0r0evGqwiUN9J2E5gHxTHQWLf+l3L4hhCtazMca4Pe6D22eJJOHxR+IMLGK61nIa46A/RsqkPyG2OHF9FEkG6KDxsxwMHuvYwGxW1eo3I8hC6FCrDMFN9ypAfS+sNLOG9FE0i68WMVf0yQ9w=='}
+2020-11-30 09:26:39,293 DEBUG transport.py Разбор сообщения от сервера: {'action': 'message', 'from': 'vlad', 'to': 'sergey', 'time': 1606717596.97807, 'message_text': 'Bpm5EQNt/8O5hoLA3FO8wShiSFPMk7sUbLoPgc7YcuJAojyfOm3/qhg3E4KfgkKfzlYfgPL4Q1OLtdLmXsT6QkRdNlvkZ6AwTmy1BQYVtBvP6Mzc+wwPpGNzJGb7vRd0ZOx7RBP2zKaMS5Tz2owSTCSEc2IgyiLcEsQbUnmjnc/b8B2PS01YeDQwpv4wqnqqbtjdSS0r0evGqwiUN9J2E5gHxTHQWLf+l3L4hhCtazMca4Pe6D22eJJOHxR+IMLGK61nIa46A/RsqkPyG2OHF9FEkG6KDxsxwMHuvYwGxW1eo3I8hC6FCrDMFN9ypAfS+sNLOG9FE0i68WMVf0yQ9w=='}
+2020-11-30 09:26:39,293 DEBUG transport.py Получено сообщение от пользователя vlad:Bpm5EQNt/8O5hoLA3FO8wShiSFPMk7sUbLoPgc7YcuJAojyfOm3/qhg3E4KfgkKfzlYfgPL4Q1OLtdLmXsT6QkRdNlvkZ6AwTmy1BQYVtBvP6Mzc+wwPpGNzJGb7vRd0ZOx7RBP2zKaMS5Tz2owSTCSEc2IgyiLcEsQbUnmjnc/b8B2PS01YeDQwpv4wqnqqbtjdSS0r0evGqwiUN9J2E5gHxTHQWLf+l3L4hhCtazMca4Pe6D22eJJOHxR+IMLGK61nIa46A/RsqkPyG2OHF9FEkG6KDxsxwMHuvYwGxW1eo3I8hC6FCrDMFN9ypAfS+sNLOG9FE0i68WMVf0yQ9w==
+2020-11-30 09:26:49,893 DEBUG transport.py Транспорт завершает работу.
+2020-11-30 09:26:51,337 DEBUG transport.py Транспорт завершает работу.

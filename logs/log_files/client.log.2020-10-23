@@ -1,0 +1,109 @@
+2020-10-22 07:59:42,414 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 07:59:42,415 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 07:59:42,419 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 07:59:42,419 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603342782.419041, 'user': {'account_name': 'Guest'}}
+2020-10-22 07:59:42,420 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-22 07:59:42,420 INFO client.py Получен ответ сервера 200 : OK
+2020-10-22 08:03:55,154 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 08:03:55,154 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 08:03:55,158 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 08:03:55,159 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603343035.158636, 'user': {'account_name': 'Guest'}}
+2020-10-22 08:03:55,159 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-22 08:03:55,160 INFO client.py Получен ответ сервера 200 : OK
+2020-10-22 15:37:18,805 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:37:18,808 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:37:18,811 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 15:37:18,811 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603370238.811497, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:37:18,812 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-22 15:37:18,812 INFO client.py Получен ответ сервера 200 : OK
+2020-10-22 15:41:20,708 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:41:20,709 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:42:11,561 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:42:11,561 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:42:11,565 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ((), {})Функция create_presence была вызвана <class 'datetime.datetime'> из функции 
+2020-10-22 15:42:11,565 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 15:42:11,565 INFO client.py Отправлено сообщение на сервер None
+2020-10-22 15:42:18,434 ERROR client.py Ошибка декодирования сообщения от сервера.
+2020-10-22 15:42:24,812 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:42:24,813 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:44:24,887 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:44:24,887 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:44:24,890 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 15:44:24,890 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ((), {})Функция create_presence была вызвана <class 'datetime.datetime'> из функции 
+2020-10-22 15:44:24,890 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603370664.890149, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:44:24,891 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-22 15:44:24,891 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами (({'response': 200},), {})Функция server_response_handler была вызвана <class 'datetime.datetime'> из функции 
+2020-10-22 15:44:24,891 INFO client.py Получен ответ сервера 200 : OK
+2020-10-22 15:45:08,101 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:45:08,102 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:45:08,107 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 15:45:26,654 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:45:26,654 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:45:26,658 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 15:45:26,658 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ((), {})Функция create_presence была вызвана <class 'datetime.datetime'> из функции 
+2020-10-22 15:45:26,658 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603370726.6581938, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:45:26,659 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-22 15:45:26,659 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами (({'response': 200},), {})Функция server_response_handler была вызвана <class 'datetime.datetime'> из функции 
+2020-10-22 15:45:26,659 INFO client.py Получен ответ сервера 200 : OK
+2020-10-22 15:45:56,584 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:45:56,584 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:45:56,588 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 15:45:56,601 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ((), {})Функция create_presence была вызвана <class 'datetime.datetime'> из функции [FrameInfo(frame=<frame at 0x7f94f25177f0, file '/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', line 20, code wrapper>, filename='/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', lineno=20, function='wrapper', code_context=['        LOGGER.debug(f"Обращение к функции : {func.__name__} с аргументами {args, kwargs}"\n'], index=0), FrameInfo(frame=<frame at 0x7f94f4118ac0, file 'client.py', line 57, code main>, filename='client.py', lineno=57, function='main', code_context=['    message_to_send = create_presence()\n'], index=0), FrameInfo(frame=<frame at 0x7f94f2726450, file 'client.py', line 70, code <module>>, filename='client.py', lineno=70, function='<module>', code_context=['    main()\n'], index=0)]
+2020-10-22 15:45:56,602 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603370756.588233, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:45:56,603 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-22 15:45:56,604 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами (({'response': 200},), {})Функция server_response_handler была вызвана <class 'datetime.datetime'> из функции [FrameInfo(frame=<frame at 0x7f94f25177f0, file '/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', line 20, code wrapper>, filename='/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', lineno=20, function='wrapper', code_context=['        LOGGER.debug(f"Обращение к функции : {func.__name__} с аргументами {args, kwargs}"\n'], index=0), FrameInfo(frame=<frame at 0x7f94f4118ac0, file 'client.py', line 62, code main>, filename='client.py', lineno=62, function='main', code_context=['        answer = server_response_handler(get_message(client_sock))\n'], index=0), FrameInfo(frame=<frame at 0x7f94f2726450, file 'client.py', line 70, code <module>>, filename='client.py', lineno=70, function='<module>', code_context=['    main()\n'], index=0)]
+2020-10-22 15:45:56,604 INFO client.py Получен ответ сервера 200 : OK
+2020-10-22 15:47:15,118 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:47:15,118 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:47:15,122 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 15:47:15,144 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ((), {})Функция create_presence была вызвана из функции [FrameInfo(frame=<frame at 0x7fb9f4217f90, file '/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', line 20, code wrapper>, filename='/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', lineno=20, function='wrapper', code_context=['        LOGGER.debug(f"Обращение к функции : {func.__name__} с аргументами {args, kwargs}"\n'], index=0), FrameInfo(frame=<frame at 0x7fb9f2425b40, file 'client.py', line 57, code main>, filename='client.py', lineno=57, function='main', code_context=['    message_to_send = create_presence()\n'], index=0), FrameInfo(frame=<frame at 0x7fb9f272e450, file 'client.py', line 70, code <module>>, filename='client.py', lineno=70, function='<module>', code_context=['    main()\n'], index=0)]
+2020-10-22 15:47:15,145 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603370835.122205, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:47:15,146 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-22 15:47:15,146 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами (({'response': 200},), {})Функция server_response_handler была вызвана из функции [FrameInfo(frame=<frame at 0x7fb9f4217f90, file '/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', line 20, code wrapper>, filename='/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', lineno=20, function='wrapper', code_context=['        LOGGER.debug(f"Обращение к функции : {func.__name__} с аргументами {args, kwargs}"\n'], index=0), FrameInfo(frame=<frame at 0x7fb9f2425b40, file 'client.py', line 62, code main>, filename='client.py', lineno=62, function='main', code_context=['        answer = server_response_handler(get_message(client_sock))\n'], index=0), FrameInfo(frame=<frame at 0x7fb9f272e450, file 'client.py', line 70, code <module>>, filename='client.py', lineno=70, function='<module>', code_context=['    main()\n'], index=0)]
+2020-10-22 15:47:15,147 INFO client.py Получен ответ сервера 200 : OK
+2020-10-22 15:47:51,224 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:47:51,224 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:47:51,227 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 15:47:51,242 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ((), {})Функция create_presence была вызвана из функции [FrameInfo(frame=<frame at 0x7fb9ffe0dd50, file '/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', line 20, code wrapper>, filename='/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', lineno=20, function='wrapper', code_context=['        LOGGER.debug(f"Обращение к функции : {func.__name__} с аргументами {args, kwargs}"\n'], index=0), FrameInfo(frame=<frame at 0x7fb9ffc08b20, file 'client.py', line 57, code main>, filename='client.py', lineno=57, function='main', code_context=['    message_to_send = create_presence()\n'], index=0), FrameInfo(frame=<frame at 0x7fba0192e450, file 'client.py', line 70, code <module>>, filename='client.py', lineno=70, function='<module>', code_context=['    main()\n'], index=0)]
+2020-10-22 15:47:51,242 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603370871.22778, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:47:51,263 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-22 15:47:51,264 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами (({'response': 200},), {})Функция server_response_handler была вызвана из функции [FrameInfo(frame=<frame at 0x7fb9ffe0dd50, file '/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', line 20, code wrapper>, filename='/Users/vladislavvovk/Documents/Учеба/chat/decorators/decos_logging.py', lineno=20, function='wrapper', code_context=['        LOGGER.debug(f"Обращение к функции : {func.__name__} с аргументами {args, kwargs}"\n'], index=0), FrameInfo(frame=<frame at 0x7fb9ffc08b20, file 'client.py', line 62, code main>, filename='client.py', lineno=62, function='main', code_context=['        answer = server_response_handler(get_message(client_sock))\n'], index=0), FrameInfo(frame=<frame at 0x7fba0192e450, file 'client.py', line 70, code <module>>, filename='client.py', lineno=70, function='<module>', code_context=['    main()\n'], index=0)]
+2020-10-22 15:47:51,264 INFO client.py Получен ответ сервера 200 : OK
+2020-10-22 15:48:39,988 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:48:39,988 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:48:39,992 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 15:48:40,010 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами ((), {})Функция create_presence была вызвана из функции main
+2020-10-22 15:48:40,010 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603370919.9920409, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:48:40,033 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-22 15:48:40,034 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами (({'response': 200},), {})Функция server_response_handler была вызвана из функции main
+2020-10-22 15:48:40,034 INFO client.py Получен ответ сервера 200 : OK
+2020-10-22 15:49:51,160 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:49:51,160 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:49:51,164 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 15:49:51,178 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами () {}Функция create_presence была вызвана <class 'datetime.datetime'> из функции main
+2020-10-22 15:49:51,178 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603370991.1644878, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:49:51,200 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-22 15:49:51,200 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами ({'response': 200},) {}Функция server_response_handler была вызвана <class 'datetime.datetime'> из функции main
+2020-10-22 15:49:51,201 INFO client.py Получен ответ сервера 200 : OK
+2020-10-22 15:51:42,963 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:51:42,964 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:51:42,968 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 15:51:42,984 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами () {}Функция create_presence была вызвана 2020-10-22 15:51:42.968563 из функции main
+2020-10-22 15:51:42,985 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603371102.96833, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:51:43,007 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-22 15:51:43,008 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами ({'response': 200},) {}Функция server_response_handler была вызвана 2020-10-22 15:51:43.007971 из функции main
+2020-10-22 15:51:43,008 INFO client.py Получен ответ сервера 200 : OK
+2020-10-22 15:54:41,616 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-22 15:54:41,616 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-22 15:54:41,619 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-22 15:54:41,641 DEBUG decos_logging.py Обращение к функции : create_presence с аргументами () {}Функция create_presence была вызвана 22-10-2020 15:54 из функции main
+2020-10-22 15:54:41,641 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603371281.619642, 'user': {'account_name': 'Guest'}}
+2020-10-22 15:54:41,656 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-22 15:54:41,657 DEBUG decos_logging.py Обращение к функции : server_response_handler с аргументами ({'response': 200},) {}Функция server_response_handler была вызвана 22-10-2020 15:54 из функции main
+2020-10-22 15:54:41,657 INFO client.py Получен ответ сервера 200 : OK
+2020-10-23 11:01:25,085 DEBUG client.py Установлены параметры по умолчанию. IP адрес : 127.0.0.1, порт : 7777
+2020-10-23 11:01:25,086 INFO client.py Клиент запущен: адрес сервера: 127.0.0.1, порт: 7777
+2020-10-23 11:01:25,089 INFO client.py Сформировано "presence" сообщение для пользователя Guest
+2020-10-23 11:01:25,109 INFO client.py Отправлено сообщение на сервер {'action': 'presence', 'time': 1603440085.089838, 'user': {'account_name': 'Guest'}}
+2020-10-23 11:01:25,129 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2020-10-23 11:01:25,130 INFO client.py Получен ответ сервера 200 : OK
